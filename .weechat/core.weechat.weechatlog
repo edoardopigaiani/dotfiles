@@ -1,0 +1,1050 @@
+2019-03-17 19:03:42	 !!! 	Warning: /home/chap/.weechat/buflist.conf, line 13: unknown option for section "look": add_newline = on
+2019-03-17 19:03:42	 !!! 	Warning: /home/chap/.weechat/xfer.conf, line 33: unknown option for section "network": send_ack = on
+2019-03-17 19:03:42	 !!! 	Warning: /home/chap/.weechat/irc.conf, line 60: unknown option for section "look": smart_filter_chghost = on
+2019-03-17 19:03:42	 !!! 	Warning: /home/chap/.weechat/irc.conf, line 76: unknown option for section "color": message_chghost = brown
+2019-03-17 19:03:42	 !!! 	Warning: /home/chap/.weechat/irc.conf, line 151: unknown option for section "server_default": split_msg_max_length = 512
+2019-03-17 19:03:42	 !!! 	irc: error creating server option "freenode.split_msg_max_length"
+2019-03-17 19:03:42	 !!! 	Warning: /home/chap/.weechat/irc.conf, line 202: invalid value for option: freenode.split_msg_max_length
+2019-03-17 19:03:42	 !!! 	irc: error creating server option "rizon.split_msg_max_length"
+2019-03-17 19:03:42	 !!! 	Warning: /home/chap/.weechat/irc.conf, line 243: invalid value for option: rizon.split_msg_max_length
+2019-03-17 19:03:42		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-03-17 19:05:25		fifo: pipe closed
+2019-03-17 19:05:31	 !!! 	Warning: /home/chap/.weechat/irc.conf, line 60: unknown option for section "look": smart_filter_chghost = on
+2019-03-17 19:05:31	 !!! 	Warning: /home/chap/.weechat/irc.conf, line 76: unknown option for section "color": message_chghost = brown
+2019-03-17 19:05:31	 !!! 	Warning: /home/chap/.weechat/irc.conf, line 151: unknown option for section "server_default": split_msg_max_length = 512
+2019-03-17 19:05:31	 !!! 	irc: error creating server option "freenode.split_msg_max_length"
+2019-03-17 19:05:31	 !!! 	Warning: /home/chap/.weechat/irc.conf, line 202: invalid value for option: freenode.split_msg_max_length
+2019-03-17 19:05:31	 !!! 	irc: error creating server option "rizon.split_msg_max_length"
+2019-03-17 19:05:31	 !!! 	Warning: /home/chap/.weechat/irc.conf, line 243: invalid value for option: rizon.split_msg_max_length
+2019-03-17 19:05:31		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-03-18 14:33:22		fifo: pipe closed
+2019-03-18 17:16:38		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-03-18 17:17:30		fifo: pipe closed
+2019-03-18 17:17:56		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-03-18 20:16:16		fifo: pipe closed
+2019-03-18 20:16:31		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-03-18 23:16:35		fifo: pipe closed
+2019-03-19 09:47:16		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-03-20 10:16:39		fifo: pipe closed
+2019-03-20 10:17:25		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-03-20 23:07:45		fifo: pipe closed
+2019-03-21 09:21:32		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-03-21 23:42:46		fifo: pipe closed
+2019-03-21 23:44:29		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-03-21 23:44:31		fifo: pipe closed
+2019-03-22 00:08:07		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-03-23 09:52:53	 !!! 	Error: option "weechat.status.color_bg" not found
+2019-03-23 09:53:27		Option changed: weechat.bar.status.color_bg = 233  (default: 235)
+2019-03-23 09:53:28		Option changed: weechat.bar.status.color_bg = 234  (default: 235)
+2019-03-23 09:53:30		Option changed: weechat.bar.status.color_bg = 235
+2019-03-23 09:53:32		Option changed: weechat.bar.status.color_bg = 236  (default: 235)
+2019-03-23 09:53:34		Option changed: weechat.bar.status.color_bg = 237  (default: 235)
+2019-03-23 09:53:40		Option changed: weechat.bar.status.color_bg = 238  (default: 235)
+2019-03-23 09:53:41		Option changed: weechat.bar.status.color_bg = 239  (default: 235)
+2019-03-23 09:53:44		Option changed: weechat.bar.status.color_bg = 235
+2019-03-23 09:53:45		Option changed: weechat.bar.status.color_bg = 236  (default: 235)
+2019-03-23 09:53:56		Option changed: weechat.bar.status.color_bg = 235
+2019-03-23 15:09:18		fifo: pipe closed
+2019-03-23 15:10:53		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-03-26 10:37:21		fifo: pipe closed
+2019-03-26 10:40:25		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-04-02 09:18:27		fifo: pipe closed
+2019-04-02 09:18:57		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-04-02 09:35:38		fifo: pipe closed
+2019-04-02 09:35:50		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-04-02 23:54:06		fifo: pipe closed
+2019-04-02 23:54:19		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-04-03 11:36:13		fifo: pipe closed
+2019-04-03 11:36:14		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-04-03 11:36:16		fifo: pipe closed
+2019-04-03 11:36:36		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-04-03 11:37:45		fifo: pipe closed
+2019-04-03 11:38:21		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-04-03 11:38:22		fifo: pipe closed
+2019-04-03 11:38:41		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-04-03 11:40:04		Options reloaded from sec.conf
+2019-04-03 11:40:05		Options reloaded from weechat.conf
+2019-04-03 11:40:05		Options reloaded from plugins.conf
+2019-04-03 11:40:05		Options reloaded from charset.conf
+2019-04-03 11:40:05		Options reloaded from logger.conf
+2019-04-03 11:40:05		Options reloaded from exec.conf
+2019-04-03 11:40:05		Options reloaded from trigger.conf
+2019-04-03 11:40:05		Options reloaded from aspell.conf
+2019-04-03 11:40:05		Options reloaded from alias.conf
+2019-04-03 11:40:05		Options reloaded from buflist.conf
+2019-04-03 11:40:05		Options reloaded from fifo.conf
+2019-04-03 11:40:05		Options reloaded from xfer.conf
+2019-04-03 11:40:05		Options reloaded from irc.conf
+2019-04-03 11:40:05		Options reloaded from relay.conf
+2019-04-03 11:40:05		Options reloaded from script.conf
+2019-04-03 11:43:33		Options reloaded from sec.conf
+2019-04-03 11:43:33		Options reloaded from weechat.conf
+2019-04-03 11:43:33		Options reloaded from plugins.conf
+2019-04-03 11:43:33		Options reloaded from charset.conf
+2019-04-03 11:43:33		Options reloaded from logger.conf
+2019-04-03 11:43:33		Options reloaded from exec.conf
+2019-04-03 11:43:33		Options reloaded from trigger.conf
+2019-04-03 11:43:33		Options reloaded from aspell.conf
+2019-04-03 11:43:33		Options reloaded from alias.conf
+2019-04-03 11:43:33		Options reloaded from buflist.conf
+2019-04-03 11:43:33		Options reloaded from fifo.conf
+2019-04-03 11:43:33		Options reloaded from xfer.conf
+2019-04-03 11:43:33		Options reloaded from irc.conf
+2019-04-03 11:43:33		Options reloaded from relay.conf
+2019-04-03 11:43:33		Options reloaded from script.conf
+2019-04-03 11:43:46		Options reloaded from sec.conf
+2019-04-03 11:43:46		Options reloaded from weechat.conf
+2019-04-03 11:43:46		Options reloaded from plugins.conf
+2019-04-03 11:43:46		Options reloaded from charset.conf
+2019-04-03 11:43:46		Options reloaded from logger.conf
+2019-04-03 11:43:46		Options reloaded from exec.conf
+2019-04-03 11:43:46		Options reloaded from trigger.conf
+2019-04-03 11:43:46		Options reloaded from aspell.conf
+2019-04-03 11:43:46		Options reloaded from alias.conf
+2019-04-03 11:43:46		Options reloaded from buflist.conf
+2019-04-03 11:43:46		Options reloaded from fifo.conf
+2019-04-03 11:43:46		Options reloaded from xfer.conf
+2019-04-03 11:43:46		Options reloaded from irc.conf
+2019-04-03 11:43:46		Options reloaded from relay.conf
+2019-04-03 11:43:46		Options reloaded from script.conf
+2019-04-03 11:44:12		Options reloaded from sec.conf
+2019-04-03 11:44:12		Options reloaded from weechat.conf
+2019-04-03 11:44:12		Options reloaded from plugins.conf
+2019-04-03 11:44:12		Options reloaded from charset.conf
+2019-04-03 11:44:12		Options reloaded from logger.conf
+2019-04-03 11:44:12		Options reloaded from exec.conf
+2019-04-03 11:44:12		Options reloaded from trigger.conf
+2019-04-03 11:44:12		Options reloaded from aspell.conf
+2019-04-03 11:44:12		Options reloaded from alias.conf
+2019-04-03 11:44:12		Options reloaded from buflist.conf
+2019-04-03 11:44:12		Options reloaded from fifo.conf
+2019-04-03 11:44:12		Options reloaded from xfer.conf
+2019-04-03 11:44:12		Options reloaded from irc.conf
+2019-04-03 11:44:12		Options reloaded from relay.conf
+2019-04-03 11:44:12		Options reloaded from script.conf
+2019-04-03 11:44:21		Options reloaded from sec.conf
+2019-04-03 11:44:21		Options reloaded from weechat.conf
+2019-04-03 11:44:21		Options reloaded from plugins.conf
+2019-04-03 11:44:21		Options reloaded from charset.conf
+2019-04-03 11:44:21		Options reloaded from logger.conf
+2019-04-03 11:44:21		Options reloaded from exec.conf
+2019-04-03 11:44:21		Options reloaded from trigger.conf
+2019-04-03 11:44:21		Options reloaded from aspell.conf
+2019-04-03 11:44:21		Options reloaded from alias.conf
+2019-04-03 11:44:21		Options reloaded from buflist.conf
+2019-04-03 11:44:21		Options reloaded from fifo.conf
+2019-04-03 11:44:21		Options reloaded from xfer.conf
+2019-04-03 11:44:21		Options reloaded from irc.conf
+2019-04-03 11:44:21		Options reloaded from relay.conf
+2019-04-03 11:44:21		Options reloaded from script.conf
+2019-04-03 11:44:34		Options reloaded from sec.conf
+2019-04-03 11:44:34		Options reloaded from weechat.conf
+2019-04-03 11:44:34		Options reloaded from plugins.conf
+2019-04-03 11:44:34		Options reloaded from charset.conf
+2019-04-03 11:44:34		Options reloaded from logger.conf
+2019-04-03 11:44:34		Options reloaded from exec.conf
+2019-04-03 11:44:34		Options reloaded from trigger.conf
+2019-04-03 11:44:34		Options reloaded from aspell.conf
+2019-04-03 11:44:34		Options reloaded from alias.conf
+2019-04-03 11:44:34		Options reloaded from buflist.conf
+2019-04-03 11:44:34		Options reloaded from fifo.conf
+2019-04-03 11:44:34		Options reloaded from xfer.conf
+2019-04-03 11:44:34		Options reloaded from irc.conf
+2019-04-03 11:44:34		Options reloaded from relay.conf
+2019-04-03 11:44:34		Options reloaded from script.conf
+2019-04-03 11:44:52		Options reloaded from sec.conf
+2019-04-03 11:44:52		Options reloaded from weechat.conf
+2019-04-03 11:44:52		Options reloaded from plugins.conf
+2019-04-03 11:44:52		Options reloaded from charset.conf
+2019-04-03 11:44:52		Options reloaded from logger.conf
+2019-04-03 11:44:52		Options reloaded from exec.conf
+2019-04-03 11:44:52		Options reloaded from trigger.conf
+2019-04-03 11:44:52		Options reloaded from aspell.conf
+2019-04-03 11:44:52		Options reloaded from alias.conf
+2019-04-03 11:44:52		Options reloaded from buflist.conf
+2019-04-03 11:44:52		Options reloaded from fifo.conf
+2019-04-03 11:44:52		Options reloaded from xfer.conf
+2019-04-03 11:44:52		Options reloaded from irc.conf
+2019-04-03 11:44:52		Options reloaded from relay.conf
+2019-04-03 11:44:52		Options reloaded from script.conf
+2019-04-03 11:45:14		Options reloaded from sec.conf
+2019-04-03 11:45:14		Options reloaded from weechat.conf
+2019-04-03 11:45:14		Options reloaded from plugins.conf
+2019-04-03 11:45:14		Options reloaded from charset.conf
+2019-04-03 11:45:14		Options reloaded from logger.conf
+2019-04-03 11:45:14		Options reloaded from exec.conf
+2019-04-03 11:45:14		Options reloaded from trigger.conf
+2019-04-03 11:45:14		Options reloaded from aspell.conf
+2019-04-03 11:45:14		Options reloaded from alias.conf
+2019-04-03 11:45:14		Options reloaded from buflist.conf
+2019-04-03 11:45:14		Options reloaded from fifo.conf
+2019-04-03 11:45:14		Options reloaded from xfer.conf
+2019-04-03 11:45:14		Options reloaded from irc.conf
+2019-04-03 11:45:14		Options reloaded from relay.conf
+2019-04-03 11:45:14		Options reloaded from script.conf
+2019-04-03 22:11:34		fifo: pipe closed
+2019-04-03 22:11:48		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-04-04 18:47:54		fifo: pipe closed
+2019-04-04 18:51:01		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-04-09 13:34:46		fifo: pipe closed
+2019-04-09 13:39:09		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-04-11 19:57:02		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-04-14 01:55:50		fifo: pipe closed
+2019-04-14 01:56:03		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-04-14 01:56:28		fifo: pipe closed
+2019-04-14 01:58:28		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-04-14 12:09:13		fifo: pipe closed
+2019-04-14 12:19:47		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-04-14 12:22:07		Option changed: weechat.bar.status.color_bg = 230  (default: 234)
+2019-04-14 12:22:09		Option changed: weechat.bar.status.color_bg = 231  (default: 234)
+2019-04-14 12:22:10		Option changed: weechat.bar.status.color_bg = 232  (default: 234)
+2019-04-14 12:22:11		Option changed: weechat.bar.status.color_bg = 233  (default: 234)
+2019-04-14 12:22:13		Option changed: weechat.bar.status.color_bg = 234
+2019-04-14 12:22:15		Option changed: weechat.bar.status.color_bg = 235  (default: 234)
+2019-04-14 12:22:16		Option changed: weechat.bar.status.color_bg = 236  (default: 234)
+2019-04-14 12:22:17		Option changed: weechat.bar.status.color_bg = 237  (default: 234)
+2019-04-14 12:22:18		Option changed: weechat.bar.status.color_bg = 238  (default: 234)
+2019-04-14 12:22:20		Option changed: weechat.bar.status.color_bg = 250  (default: 234)
+2019-04-14 12:22:22		Option changed: weechat.bar.status.color_bg = 245  (default: 234)
+2019-04-14 12:22:24		Option changed: weechat.bar.status.color_bg = 1  (default: 234)
+2019-04-14 12:22:26		Option changed: weechat.bar.status.color_bg = 2  (default: 234)
+2019-04-14 12:22:27		Option changed: weechat.bar.status.color_bg = 3  (default: 234)
+2019-04-14 12:22:28		Option changed: weechat.bar.status.color_bg = 4  (default: 234)
+2019-04-14 12:22:29		Option changed: weechat.bar.status.color_bg = 5  (default: 234)
+2019-04-14 12:22:30		Option changed: weechat.bar.status.color_bg = 6  (default: 234)
+2019-04-14 12:22:31		Option changed: weechat.bar.status.color_bg = 7  (default: 234)
+2019-04-14 12:22:33		Option changed: weechat.bar.status.color_bg = 8  (default: 234)
+2019-04-14 12:22:34		Option changed: weechat.bar.status.color_bg = 9  (default: 234)
+2019-04-14 12:22:36		Option changed: weechat.bar.status.color_bg = 10  (default: 234)
+2019-04-14 12:22:38		Option changed: weechat.bar.status.color_bg = 15  (default: 234)
+2019-04-14 12:22:40		Option changed: weechat.bar.status.color_bg = 16  (default: 234)
+2019-04-14 12:22:41		Option changed: weechat.bar.status.color_bg = 17  (default: 234)
+2019-04-14 12:22:43		Option changed: weechat.bar.status.color_bg = 18  (default: 234)
+2019-04-14 12:22:45		Option changed: weechat.bar.status.color_bg = 19  (default: 234)
+2019-04-14 12:22:46		Option changed: weechat.bar.status.color_bg = 20  (default: 234)
+2019-04-14 12:22:48		Option changed: weechat.bar.status.color_bg = 25  (default: 234)
+2019-04-14 12:22:50		Option changed: weechat.bar.status.color_bg = 30  (default: 234)
+2019-04-14 12:22:51		Option changed: weechat.bar.status.color_bg = 35  (default: 234)
+2019-04-14 12:22:53		Option changed: weechat.bar.status.color_bg = 40  (default: 234)
+2019-04-14 12:22:54		Option changed: weechat.bar.status.color_bg = 45  (default: 234)
+2019-04-14 12:22:56		Option changed: weechat.bar.status.color_bg = 50  (default: 234)
+2019-04-14 12:22:58		Option changed: weechat.bar.status.color_bg = 80  (default: 234)
+2019-04-14 12:23:01		Option changed: weechat.bar.status.color_bg = blue  (default: 234)
+2019-04-14 12:23:08		Option changed: weechat.bar.status.color_bg = cyan  (default: 234)
+2019-04-14 12:23:12	 !!! 	Error: failed to set option "weechat.bar.status.color_bg"
+2019-04-14 12:23:15		[bar] (weechat.conf)
+2019-04-14 12:23:15		  weechat.bar.status.color_bg = cyan  (default: 234)
+2019-04-14 12:23:15		1 option (matching with "weechat.bar.status.color_bg")
+2019-04-14 12:23:22		Option changed: weechat.bar.status.color_bg = magenta  (default: 234)
+2019-04-14 12:23:27		Option changed: weechat.bar.status.color_bg = black  (default: 234)
+2019-04-14 12:23:45		Option changed: weechat.bar.status.color_bg = 0  (default: 234)
+2019-04-14 12:23:47		Option changed: weechat.bar.status.color_bg = 1  (default: 234)
+2019-04-14 12:23:48		Option changed: weechat.bar.status.color_bg = 0  (default: 234)
+2019-04-14 12:24:28		Option changed: weechat.bar.status.color_bg = 182  (default: 234)
+2019-04-14 12:24:40		Option changed: weechat.bar.status.color_bg = 90  (default: 234)
+2019-04-14 12:24:47		Option changed: weechat.bar.status.color_bg = 53  (default: 234)
+2019-04-14 12:24:54		Option changed: weechat.bar.status.color_bg = 23  (default: 234)
+2019-04-14 12:24:58		Option changed: weechat.bar.status.color_bg = 5  (default: 234)
+2019-04-14 12:25:12		Option changed: weechat.bar.status.color_bg = 0  (default: 234)
+2019-04-14 12:25:36		fifo: pipe closed
+2019-04-14 12:25:47		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-04-14 12:25:57		fifo: pipe closed
+2019-04-14 12:26:10		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-04-14 12:26:12		fifo: pipe closed
+2019-04-14 12:26:21		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-04-14 13:49:22		Options reloaded from sec.conf
+2019-04-14 13:49:22		Options reloaded from weechat.conf
+2019-04-14 13:49:22		Options reloaded from plugins.conf
+2019-04-14 13:49:22		Options reloaded from charset.conf
+2019-04-14 13:49:22		Options reloaded from logger.conf
+2019-04-14 13:49:22		Options reloaded from exec.conf
+2019-04-14 13:49:22		Options reloaded from trigger.conf
+2019-04-14 13:49:22		Options reloaded from aspell.conf
+2019-04-14 13:49:22		Options reloaded from alias.conf
+2019-04-14 13:49:22		Options reloaded from buflist.conf
+2019-04-14 13:49:22		Options reloaded from fifo.conf
+2019-04-14 13:49:22		Options reloaded from xfer.conf
+2019-04-14 13:49:22		Options reloaded from irc.conf
+2019-04-14 13:49:22		Options reloaded from relay.conf
+2019-04-14 13:49:22		Options reloaded from script.conf
+2019-04-14 13:52:20		Options reloaded from sec.conf
+2019-04-14 13:52:20		Options reloaded from weechat.conf
+2019-04-14 13:52:20		Options reloaded from plugins.conf
+2019-04-14 13:52:20		Options reloaded from charset.conf
+2019-04-14 13:52:20		Options reloaded from logger.conf
+2019-04-14 13:52:20		Options reloaded from exec.conf
+2019-04-14 13:52:20		Options reloaded from trigger.conf
+2019-04-14 13:52:20		Options reloaded from aspell.conf
+2019-04-14 13:52:20		Options reloaded from alias.conf
+2019-04-14 13:52:20		Options reloaded from buflist.conf
+2019-04-14 13:52:20		Options reloaded from fifo.conf
+2019-04-14 13:52:20		Options reloaded from xfer.conf
+2019-04-14 13:52:20		Options reloaded from irc.conf
+2019-04-14 13:52:20		Options reloaded from relay.conf
+2019-04-14 13:52:20		Options reloaded from script.conf
+2019-04-15 11:41:09		fifo: pipe closed
+2019-04-15 15:25:10		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-04-15 15:28:57		Option changed: irc.server.oftc.ssl_cert = "%h/certs/nick.pem"  (default if null: "")
+2019-04-15 15:29:25		fifo: pipe closed
+2019-04-15 15:30:19		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-04-15 15:31:25		irc: server oftc has been deleted
+2019-04-15 15:31:43		irc: server OFTC added
+2019-04-15 15:31:49		Option changed: irc.server.OFTC.ssl_cert = "%h/certs/nick.pem"  (default if null: "")
+2019-04-15 15:31:57		fifo: pipe closed
+2019-04-15 15:32:16		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-04-15 15:33:47	 !!! 	irc: server "oftc" not found
+2019-04-17 10:22:05		fifo: pipe closed
+2019-04-17 10:44:18		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-04-17 10:44:21		fifo: pipe closed
+2019-04-17 10:44:22		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-04-17 10:44:23		fifo: pipe closed
+2019-04-17 10:44:41		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-04-25 11:40:34		fifo: pipe closed
+2019-04-26 10:26:09		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-04-26 10:26:11		fifo: pipe closed
+2019-04-26 10:26:34		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-04-26 10:26:36		fifo: pipe closed
+2019-04-26 10:26:39		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-04-26 10:26:42		fifo: pipe closed
+2019-04-26 10:26:46		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-05-05 10:28:26		fifo: pipe closed
+2019-05-05 10:37:11		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-05-05 23:34:24		fifo: pipe closed
+2019-05-05 23:36:55		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-05-05 23:51:50		fifo: pipe closed
+2019-05-05 23:52:19		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-05-13 15:36:38		fifo: pipe closed
+2019-05-13 21:47:39		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-05-13 23:31:28		fifo: pipe closed
+2019-05-14 08:55:25		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-05-14 22:42:17		fifo: pipe closed
+2019-05-15 09:08:48		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-05-15 21:16:26		fifo: pipe closed
+2019-05-15 22:11:53		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-05-18 02:00:29		fifo: pipe closed
+2019-05-18 11:32:23		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-05-18 11:32:30		fifo: pipe closed
+2019-05-18 11:34:11		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-05-18 18:03:12		fifo: pipe closed
+2019-05-19 09:18:28		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-05-19 09:58:22		fifo: pipe closed
+2019-05-19 09:58:57		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-05-20 18:25:02		fifo: pipe closed
+2019-05-20 18:33:57		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-05-20 18:50:00		Options reloaded from sec.conf
+2019-05-20 18:50:00		Options reloaded from weechat.conf
+2019-05-20 18:50:00		Options reloaded from plugins.conf
+2019-05-20 18:50:00		Options reloaded from charset.conf
+2019-05-20 18:50:00		Options reloaded from logger.conf
+2019-05-20 18:50:00		Options reloaded from exec.conf
+2019-05-20 18:50:00		Options reloaded from trigger.conf
+2019-05-20 18:50:00		Options reloaded from aspell.conf
+2019-05-20 18:50:00		Options reloaded from alias.conf
+2019-05-20 18:50:00		Options reloaded from buflist.conf
+2019-05-20 18:50:00		Options reloaded from fifo.conf
+2019-05-20 18:50:00		Options reloaded from xfer.conf
+2019-05-20 18:50:00		Options reloaded from irc.conf
+2019-05-20 18:50:00		Options reloaded from relay.conf
+2019-05-20 18:50:00		Options reloaded from script.conf
+2019-05-20 18:50:32		Options reloaded from sec.conf
+2019-05-20 18:50:32		Options reloaded from weechat.conf
+2019-05-20 18:50:32		Options reloaded from plugins.conf
+2019-05-20 18:50:32		Options reloaded from charset.conf
+2019-05-20 18:50:32		Options reloaded from logger.conf
+2019-05-20 18:50:32		Options reloaded from exec.conf
+2019-05-20 18:50:32		Options reloaded from trigger.conf
+2019-05-20 18:50:32		Options reloaded from aspell.conf
+2019-05-20 18:50:32		Options reloaded from alias.conf
+2019-05-20 18:50:32		Options reloaded from buflist.conf
+2019-05-20 18:50:32		Options reloaded from fifo.conf
+2019-05-20 18:50:32		Options reloaded from xfer.conf
+2019-05-20 18:50:32		Options reloaded from irc.conf
+2019-05-20 18:50:32		Options reloaded from relay.conf
+2019-05-20 18:50:32		Options reloaded from script.conf
+2019-05-20 18:51:00		Options reloaded from sec.conf
+2019-05-20 18:51:00		Options reloaded from weechat.conf
+2019-05-20 18:51:00		Options reloaded from plugins.conf
+2019-05-20 18:51:00		Options reloaded from charset.conf
+2019-05-20 18:51:00		Options reloaded from logger.conf
+2019-05-20 18:51:00		Options reloaded from exec.conf
+2019-05-20 18:51:00		Options reloaded from trigger.conf
+2019-05-20 18:51:00		Options reloaded from aspell.conf
+2019-05-20 18:51:00		Options reloaded from alias.conf
+2019-05-20 18:51:00		Options reloaded from buflist.conf
+2019-05-20 18:51:00		Options reloaded from fifo.conf
+2019-05-20 18:51:00		Options reloaded from xfer.conf
+2019-05-20 18:51:00		Options reloaded from irc.conf
+2019-05-20 18:51:00		Options reloaded from relay.conf
+2019-05-20 18:51:00		Options reloaded from script.conf
+2019-05-20 18:55:54		Options reloaded from sec.conf
+2019-05-20 18:55:54		Options reloaded from weechat.conf
+2019-05-20 18:55:54		Options reloaded from plugins.conf
+2019-05-20 18:55:54		Options reloaded from charset.conf
+2019-05-20 18:55:54		Options reloaded from logger.conf
+2019-05-20 18:55:54		Options reloaded from exec.conf
+2019-05-20 18:55:54		Options reloaded from trigger.conf
+2019-05-20 18:55:54		Options reloaded from aspell.conf
+2019-05-20 18:55:54		Options reloaded from alias.conf
+2019-05-20 18:55:54		Options reloaded from buflist.conf
+2019-05-20 18:55:54		Options reloaded from fifo.conf
+2019-05-20 18:55:54		Options reloaded from xfer.conf
+2019-05-20 18:55:54		Options reloaded from irc.conf
+2019-05-20 18:55:54		Options reloaded from relay.conf
+2019-05-20 18:55:54		Options reloaded from script.conf
+2019-05-20 18:56:22		Options reloaded from sec.conf
+2019-05-20 18:56:22		Options reloaded from weechat.conf
+2019-05-20 18:56:22		Options reloaded from plugins.conf
+2019-05-20 18:56:22		Options reloaded from charset.conf
+2019-05-20 18:56:22		Options reloaded from logger.conf
+2019-05-20 18:56:22		Options reloaded from exec.conf
+2019-05-20 18:56:22		Options reloaded from trigger.conf
+2019-05-20 18:56:22		Options reloaded from aspell.conf
+2019-05-20 18:56:22		Options reloaded from alias.conf
+2019-05-20 18:56:22		Options reloaded from buflist.conf
+2019-05-20 18:56:22		Options reloaded from fifo.conf
+2019-05-20 18:56:22		Options reloaded from xfer.conf
+2019-05-20 18:56:22		Options reloaded from irc.conf
+2019-05-20 18:56:22		Options reloaded from relay.conf
+2019-05-20 18:56:22		Options reloaded from script.conf
+2019-05-20 18:57:20		Options reloaded from sec.conf
+2019-05-20 18:57:20		Options reloaded from weechat.conf
+2019-05-20 18:57:20		Options reloaded from plugins.conf
+2019-05-20 18:57:20		Options reloaded from charset.conf
+2019-05-20 18:57:20		Options reloaded from logger.conf
+2019-05-20 18:57:20		Options reloaded from exec.conf
+2019-05-20 18:57:20		Options reloaded from trigger.conf
+2019-05-20 18:57:20		Options reloaded from aspell.conf
+2019-05-20 18:57:20		Options reloaded from alias.conf
+2019-05-20 18:57:20		Options reloaded from buflist.conf
+2019-05-20 18:57:20		Options reloaded from fifo.conf
+2019-05-20 18:57:20		Options reloaded from xfer.conf
+2019-05-20 18:57:20		Options reloaded from irc.conf
+2019-05-20 18:57:20		Options reloaded from relay.conf
+2019-05-20 18:57:20		Options reloaded from script.conf
+2019-05-20 18:59:05		Options reloaded from sec.conf
+2019-05-20 18:59:06		Options reloaded from weechat.conf
+2019-05-20 18:59:06		Options reloaded from plugins.conf
+2019-05-20 18:59:06		Options reloaded from charset.conf
+2019-05-20 18:59:06		Options reloaded from logger.conf
+2019-05-20 18:59:06		Options reloaded from exec.conf
+2019-05-20 18:59:06		Options reloaded from trigger.conf
+2019-05-20 18:59:06		Options reloaded from aspell.conf
+2019-05-20 18:59:06		Options reloaded from alias.conf
+2019-05-20 18:59:06		Options reloaded from buflist.conf
+2019-05-20 18:59:06		Options reloaded from fifo.conf
+2019-05-20 18:59:06		Options reloaded from xfer.conf
+2019-05-20 18:59:06		Options reloaded from irc.conf
+2019-05-20 18:59:06		Options reloaded from relay.conf
+2019-05-20 18:59:06		Options reloaded from script.conf
+2019-05-20 18:59:21		Options reloaded from sec.conf
+2019-05-20 18:59:21		Options reloaded from weechat.conf
+2019-05-20 18:59:21		Options reloaded from plugins.conf
+2019-05-20 18:59:21		Options reloaded from charset.conf
+2019-05-20 18:59:21		Options reloaded from logger.conf
+2019-05-20 18:59:21		Options reloaded from exec.conf
+2019-05-20 18:59:21		Options reloaded from trigger.conf
+2019-05-20 18:59:21		Options reloaded from aspell.conf
+2019-05-20 18:59:21		Options reloaded from alias.conf
+2019-05-20 18:59:21		Options reloaded from buflist.conf
+2019-05-20 18:59:21		Options reloaded from fifo.conf
+2019-05-20 18:59:21		Options reloaded from xfer.conf
+2019-05-20 18:59:21		Options reloaded from irc.conf
+2019-05-20 18:59:21		Options reloaded from relay.conf
+2019-05-20 18:59:21		Options reloaded from script.conf
+2019-05-20 18:59:22		Options reloaded from sec.conf
+2019-05-20 18:59:22		Options reloaded from weechat.conf
+2019-05-20 18:59:22		Options reloaded from plugins.conf
+2019-05-20 18:59:22		Options reloaded from charset.conf
+2019-05-20 18:59:22		Options reloaded from logger.conf
+2019-05-20 18:59:22		Options reloaded from exec.conf
+2019-05-20 18:59:22		Options reloaded from trigger.conf
+2019-05-20 18:59:22		Options reloaded from aspell.conf
+2019-05-20 18:59:22		Options reloaded from alias.conf
+2019-05-20 18:59:22		Options reloaded from buflist.conf
+2019-05-20 18:59:22		Options reloaded from fifo.conf
+2019-05-20 18:59:22		Options reloaded from xfer.conf
+2019-05-20 18:59:22		Options reloaded from irc.conf
+2019-05-20 18:59:22		Options reloaded from relay.conf
+2019-05-20 18:59:22		Options reloaded from script.conf
+2019-05-20 18:59:51		Options reloaded from sec.conf
+2019-05-20 18:59:51		Options reloaded from weechat.conf
+2019-05-20 18:59:51		Options reloaded from plugins.conf
+2019-05-20 18:59:51		Options reloaded from charset.conf
+2019-05-20 18:59:51		Options reloaded from logger.conf
+2019-05-20 18:59:51		Options reloaded from exec.conf
+2019-05-20 18:59:51		Options reloaded from trigger.conf
+2019-05-20 18:59:51		Options reloaded from aspell.conf
+2019-05-20 18:59:51		Options reloaded from alias.conf
+2019-05-20 18:59:51		Options reloaded from buflist.conf
+2019-05-20 18:59:51		Options reloaded from fifo.conf
+2019-05-20 18:59:51		Options reloaded from xfer.conf
+2019-05-20 18:59:51		Options reloaded from irc.conf
+2019-05-20 18:59:51		Options reloaded from relay.conf
+2019-05-20 18:59:51		Options reloaded from script.conf
+2019-05-20 19:00:56		Options reloaded from sec.conf
+2019-05-20 19:00:56		Options reloaded from weechat.conf
+2019-05-20 19:00:56		Options reloaded from plugins.conf
+2019-05-20 19:00:56		Options reloaded from charset.conf
+2019-05-20 19:00:56		Options reloaded from logger.conf
+2019-05-20 19:00:56		Options reloaded from exec.conf
+2019-05-20 19:00:56		Options reloaded from trigger.conf
+2019-05-20 19:00:56		Options reloaded from aspell.conf
+2019-05-20 19:00:56		Options reloaded from alias.conf
+2019-05-20 19:00:56		Options reloaded from buflist.conf
+2019-05-20 19:00:56		Options reloaded from fifo.conf
+2019-05-20 19:00:56		Options reloaded from xfer.conf
+2019-05-20 19:00:56		Options reloaded from irc.conf
+2019-05-20 19:00:56		Options reloaded from relay.conf
+2019-05-20 19:00:56		Options reloaded from script.conf
+2019-05-20 19:02:52		Options reloaded from sec.conf
+2019-05-20 19:02:52		Options reloaded from weechat.conf
+2019-05-20 19:02:52		Options reloaded from plugins.conf
+2019-05-20 19:02:52		Options reloaded from charset.conf
+2019-05-20 19:02:52		Options reloaded from logger.conf
+2019-05-20 19:02:52		Options reloaded from exec.conf
+2019-05-20 19:02:52		Options reloaded from trigger.conf
+2019-05-20 19:02:52		Options reloaded from aspell.conf
+2019-05-20 19:02:52		Options reloaded from alias.conf
+2019-05-20 19:02:52		Options reloaded from buflist.conf
+2019-05-20 19:02:52		Options reloaded from fifo.conf
+2019-05-20 19:02:52		Options reloaded from xfer.conf
+2019-05-20 19:02:52		Options reloaded from irc.conf
+2019-05-20 19:02:52		Options reloaded from relay.conf
+2019-05-20 19:02:52		Options reloaded from script.conf
+2019-05-20 19:03:05		Options reloaded from sec.conf
+2019-05-20 19:03:05		Options reloaded from weechat.conf
+2019-05-20 19:03:05		Options reloaded from plugins.conf
+2019-05-20 19:03:05		Options reloaded from charset.conf
+2019-05-20 19:03:05		Options reloaded from logger.conf
+2019-05-20 19:03:05		Options reloaded from exec.conf
+2019-05-20 19:03:05		Options reloaded from trigger.conf
+2019-05-20 19:03:05		Options reloaded from aspell.conf
+2019-05-20 19:03:05		Options reloaded from alias.conf
+2019-05-20 19:03:05		Options reloaded from buflist.conf
+2019-05-20 19:03:05		Options reloaded from fifo.conf
+2019-05-20 19:03:05		Options reloaded from xfer.conf
+2019-05-20 19:03:05		Options reloaded from irc.conf
+2019-05-20 19:03:05		Options reloaded from relay.conf
+2019-05-20 19:03:05		Options reloaded from script.conf
+2019-05-20 19:03:38		Options reloaded from sec.conf
+2019-05-20 19:03:38		Options reloaded from weechat.conf
+2019-05-20 19:03:38		Options reloaded from plugins.conf
+2019-05-20 19:03:38		Options reloaded from charset.conf
+2019-05-20 19:03:38		Options reloaded from logger.conf
+2019-05-20 19:03:38		Options reloaded from exec.conf
+2019-05-20 19:03:38		Options reloaded from trigger.conf
+2019-05-20 19:03:38		Options reloaded from aspell.conf
+2019-05-20 19:03:38		Options reloaded from alias.conf
+2019-05-20 19:03:38		Options reloaded from buflist.conf
+2019-05-20 19:03:38		Options reloaded from fifo.conf
+2019-05-20 19:03:38		Options reloaded from xfer.conf
+2019-05-20 19:03:38		Options reloaded from irc.conf
+2019-05-20 19:03:38		Options reloaded from relay.conf
+2019-05-20 19:03:38		Options reloaded from script.conf
+2019-05-20 19:03:51		Options reloaded from sec.conf
+2019-05-20 19:03:51		Options reloaded from weechat.conf
+2019-05-20 19:03:51		Options reloaded from plugins.conf
+2019-05-20 19:03:51		Options reloaded from charset.conf
+2019-05-20 19:03:51		Options reloaded from logger.conf
+2019-05-20 19:03:51		Options reloaded from exec.conf
+2019-05-20 19:03:51		Options reloaded from trigger.conf
+2019-05-20 19:03:51		Options reloaded from aspell.conf
+2019-05-20 19:03:51		Options reloaded from alias.conf
+2019-05-20 19:03:51		Options reloaded from buflist.conf
+2019-05-20 19:03:51		Options reloaded from fifo.conf
+2019-05-20 19:03:51		Options reloaded from xfer.conf
+2019-05-20 19:03:51		Options reloaded from irc.conf
+2019-05-20 19:03:51		Options reloaded from relay.conf
+2019-05-20 19:03:51		Options reloaded from script.conf
+2019-05-20 19:03:57		Options reloaded from sec.conf
+2019-05-20 19:03:57		Options reloaded from weechat.conf
+2019-05-20 19:03:57		Options reloaded from plugins.conf
+2019-05-20 19:03:57		Options reloaded from charset.conf
+2019-05-20 19:03:57		Options reloaded from logger.conf
+2019-05-20 19:03:57		Options reloaded from exec.conf
+2019-05-20 19:03:57		Options reloaded from trigger.conf
+2019-05-20 19:03:57		Options reloaded from aspell.conf
+2019-05-20 19:03:57		Options reloaded from alias.conf
+2019-05-20 19:03:57		Options reloaded from buflist.conf
+2019-05-20 19:03:57		Options reloaded from fifo.conf
+2019-05-20 19:03:57		Options reloaded from xfer.conf
+2019-05-20 19:03:57		Options reloaded from irc.conf
+2019-05-20 19:03:57		Options reloaded from relay.conf
+2019-05-20 19:03:57		Options reloaded from script.conf
+2019-05-20 19:04:49		Options reloaded from sec.conf
+2019-05-20 19:04:49		Options reloaded from weechat.conf
+2019-05-20 19:04:49		Options reloaded from plugins.conf
+2019-05-20 19:04:49		Options reloaded from charset.conf
+2019-05-20 19:04:49		Options reloaded from logger.conf
+2019-05-20 19:04:49		Options reloaded from exec.conf
+2019-05-20 19:04:49		Options reloaded from trigger.conf
+2019-05-20 19:04:49		Options reloaded from aspell.conf
+2019-05-20 19:04:49		Options reloaded from alias.conf
+2019-05-20 19:04:49		Options reloaded from buflist.conf
+2019-05-20 19:04:49		Options reloaded from fifo.conf
+2019-05-20 19:04:49		Options reloaded from xfer.conf
+2019-05-20 19:04:49		Options reloaded from irc.conf
+2019-05-20 19:04:49		Options reloaded from relay.conf
+2019-05-20 19:04:49		Options reloaded from script.conf
+2019-05-20 19:05:13		Options reloaded from sec.conf
+2019-05-20 19:05:13		Options reloaded from weechat.conf
+2019-05-20 19:05:13		Options reloaded from plugins.conf
+2019-05-20 19:05:13		Options reloaded from charset.conf
+2019-05-20 19:05:13		Options reloaded from logger.conf
+2019-05-20 19:05:13		Options reloaded from exec.conf
+2019-05-20 19:05:13		Options reloaded from trigger.conf
+2019-05-20 19:05:13		Options reloaded from aspell.conf
+2019-05-20 19:05:13		Options reloaded from alias.conf
+2019-05-20 19:05:13		Options reloaded from buflist.conf
+2019-05-20 19:05:13		Options reloaded from fifo.conf
+2019-05-20 19:05:13		Options reloaded from xfer.conf
+2019-05-20 19:05:13		Options reloaded from irc.conf
+2019-05-20 19:05:13		Options reloaded from relay.conf
+2019-05-20 19:05:13		Options reloaded from script.conf
+2019-05-20 19:05:41		Options reloaded from sec.conf
+2019-05-20 19:05:41		Options reloaded from weechat.conf
+2019-05-20 19:05:41		Options reloaded from plugins.conf
+2019-05-20 19:05:41		Options reloaded from charset.conf
+2019-05-20 19:05:41		Options reloaded from logger.conf
+2019-05-20 19:05:41		Options reloaded from exec.conf
+2019-05-20 19:05:41		Options reloaded from trigger.conf
+2019-05-20 19:05:41		Options reloaded from aspell.conf
+2019-05-20 19:05:41		Options reloaded from alias.conf
+2019-05-20 19:05:41		Options reloaded from buflist.conf
+2019-05-20 19:05:41		Options reloaded from fifo.conf
+2019-05-20 19:05:41		Options reloaded from xfer.conf
+2019-05-20 19:05:41		Options reloaded from irc.conf
+2019-05-20 19:05:41		Options reloaded from relay.conf
+2019-05-20 19:05:41		Options reloaded from script.conf
+2019-05-20 19:06:01		Options reloaded from sec.conf
+2019-05-20 19:06:01		Options reloaded from weechat.conf
+2019-05-20 19:06:01		Options reloaded from plugins.conf
+2019-05-20 19:06:01		Options reloaded from charset.conf
+2019-05-20 19:06:01		Options reloaded from logger.conf
+2019-05-20 19:06:01		Options reloaded from exec.conf
+2019-05-20 19:06:01		Options reloaded from trigger.conf
+2019-05-20 19:06:01		Options reloaded from aspell.conf
+2019-05-20 19:06:01		Options reloaded from alias.conf
+2019-05-20 19:06:01		Options reloaded from buflist.conf
+2019-05-20 19:06:01		Options reloaded from fifo.conf
+2019-05-20 19:06:01		Options reloaded from xfer.conf
+2019-05-20 19:06:01		Options reloaded from irc.conf
+2019-05-20 19:06:01		Options reloaded from relay.conf
+2019-05-20 19:06:01		Options reloaded from script.conf
+2019-05-20 19:06:10		Options reloaded from sec.conf
+2019-05-20 19:06:10		Options reloaded from weechat.conf
+2019-05-20 19:06:10		Options reloaded from plugins.conf
+2019-05-20 19:06:10		Options reloaded from charset.conf
+2019-05-20 19:06:10		Options reloaded from logger.conf
+2019-05-20 19:06:10		Options reloaded from exec.conf
+2019-05-20 19:06:10		Options reloaded from trigger.conf
+2019-05-20 19:06:10		Options reloaded from aspell.conf
+2019-05-20 19:06:10		Options reloaded from alias.conf
+2019-05-20 19:06:10		Options reloaded from buflist.conf
+2019-05-20 19:06:10		Options reloaded from fifo.conf
+2019-05-20 19:06:10		Options reloaded from xfer.conf
+2019-05-20 19:06:10		Options reloaded from irc.conf
+2019-05-20 19:06:10		Options reloaded from relay.conf
+2019-05-20 19:06:10		Options reloaded from script.conf
+2019-05-20 19:07:28		Options reloaded from sec.conf
+2019-05-20 19:07:29		Options reloaded from weechat.conf
+2019-05-20 19:07:29		Options reloaded from plugins.conf
+2019-05-20 19:07:29		Options reloaded from charset.conf
+2019-05-20 19:07:29		Options reloaded from logger.conf
+2019-05-20 19:07:29		Options reloaded from exec.conf
+2019-05-20 19:07:29		Options reloaded from trigger.conf
+2019-05-20 19:07:29		Options reloaded from aspell.conf
+2019-05-20 19:07:29		Options reloaded from alias.conf
+2019-05-20 19:07:29		Options reloaded from buflist.conf
+2019-05-20 19:07:29		Options reloaded from fifo.conf
+2019-05-20 19:07:29		Options reloaded from xfer.conf
+2019-05-20 19:07:29		Options reloaded from irc.conf
+2019-05-20 19:07:29		Options reloaded from relay.conf
+2019-05-20 19:07:29		Options reloaded from script.conf
+2019-05-20 19:37:29		Options reloaded from sec.conf
+2019-05-20 19:37:29		Options reloaded from weechat.conf
+2019-05-20 19:37:29		Options reloaded from plugins.conf
+2019-05-20 19:37:29		Options reloaded from charset.conf
+2019-05-20 19:37:29		Options reloaded from logger.conf
+2019-05-20 19:37:29		Options reloaded from exec.conf
+2019-05-20 19:37:29		Options reloaded from trigger.conf
+2019-05-20 19:37:29		Options reloaded from aspell.conf
+2019-05-20 19:37:29		Options reloaded from alias.conf
+2019-05-20 19:37:29		Options reloaded from buflist.conf
+2019-05-20 19:37:29		Options reloaded from fifo.conf
+2019-05-20 19:37:29		Options reloaded from xfer.conf
+2019-05-20 19:37:29		Options reloaded from irc.conf
+2019-05-20 19:37:29		Options reloaded from relay.conf
+2019-05-20 19:37:29		Options reloaded from script.conf
+2019-05-21 09:13:33		fifo: pipe closed
+2019-05-21 09:13:37		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-05-21 09:13:41		fifo: pipe closed
+2019-05-21 09:18:27		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-05-21 23:20:05		Options reloaded from sec.conf
+2019-05-21 23:20:05		Options reloaded from weechat.conf
+2019-05-21 23:20:05		Options reloaded from plugins.conf
+2019-05-21 23:20:05		Options reloaded from charset.conf
+2019-05-21 23:20:05		Options reloaded from logger.conf
+2019-05-21 23:20:05		Options reloaded from exec.conf
+2019-05-21 23:20:05		Options reloaded from trigger.conf
+2019-05-21 23:20:05		Options reloaded from aspell.conf
+2019-05-21 23:20:05		Options reloaded from alias.conf
+2019-05-21 23:20:05		Options reloaded from buflist.conf
+2019-05-21 23:20:05		Options reloaded from fifo.conf
+2019-05-21 23:20:05		Options reloaded from xfer.conf
+2019-05-21 23:20:05		Options reloaded from irc.conf
+2019-05-21 23:20:05		Options reloaded from relay.conf
+2019-05-21 23:20:05		Options reloaded from script.conf
+2019-05-27 09:14:23		fifo: pipe closed
+2019-05-27 09:33:55		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-05-29 10:29:22		fifo: pipe closed
+2019-05-29 18:39:03		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-06-03 12:57:50		fifo: pipe closed
+2019-06-03 14:08:37		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-06-04 09:10:50		fifo: pipe closed
+2019-06-04 11:33:06		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-06-04 23:05:57		fifo: pipe closed
+2019-06-05 12:43:46		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-06-07 13:54:32		irc: server irc.hackint.net added (temporary server, NOT SAVED!)
+2019-06-07 13:55:33		irc: server irc.hackint.org added (temporary server, NOT SAVED!)
+2019-06-07 13:56:02	 !!! 	irc: unable to add temporary server "irc.hackint.org/6697" (check if there is already a server with this name)
+2019-06-07 13:56:05		irc: server 6697 added (temporary server, NOT SAVED!)
+2019-06-07 13:56:34		fifo: pipe closed
+2019-06-07 13:56:37		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-06-07 13:57:02		fifo: pipe closed
+2019-06-07 13:57:40		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-06-11 18:01:37		fifo: pipe closed
+2019-06-11 18:01:39		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-06-13 15:55:17		Options reloaded from sec.conf
+2019-06-13 15:55:17		Options reloaded from weechat.conf
+2019-06-13 15:55:18		Options reloaded from plugins.conf
+2019-06-13 15:55:18		Options reloaded from charset.conf
+2019-06-13 15:55:18		Options reloaded from logger.conf
+2019-06-13 15:55:18		Options reloaded from exec.conf
+2019-06-13 15:55:18		Options reloaded from trigger.conf
+2019-06-13 15:55:18		Options reloaded from aspell.conf
+2019-06-13 15:55:18		Options reloaded from alias.conf
+2019-06-13 15:55:18		Options reloaded from buflist.conf
+2019-06-13 15:55:18		Options reloaded from fifo.conf
+2019-06-13 15:55:18		Options reloaded from xfer.conf
+2019-06-13 15:55:18		Options reloaded from irc.conf
+2019-06-13 15:55:18		Options reloaded from relay.conf
+2019-06-13 15:55:18		Options reloaded from script.conf
+2019-06-13 15:56:27		Options saved to sec.conf
+2019-06-13 15:56:27		Options saved to weechat.conf
+2019-06-13 15:56:27		Options saved to plugins.conf
+2019-06-13 15:56:27		Options saved to charset.conf
+2019-06-13 15:56:27		Options saved to logger.conf
+2019-06-13 15:56:27		Options saved to exec.conf
+2019-06-13 15:56:27		Options saved to trigger.conf
+2019-06-13 15:56:27		Options saved to aspell.conf
+2019-06-13 15:56:27		Options saved to alias.conf
+2019-06-13 15:56:27		Options saved to buflist.conf
+2019-06-13 15:56:27		Options saved to fifo.conf
+2019-06-13 15:56:27		Options saved to xfer.conf
+2019-06-13 15:56:27		Options saved to irc.conf
+2019-06-13 15:56:27		Options saved to relay.conf
+2019-06-13 15:56:27		Options saved to script.conf
+2019-06-13 23:37:09		Options reloaded from sec.conf
+2019-06-13 23:37:09		Options reloaded from weechat.conf
+2019-06-13 23:37:09		Options reloaded from plugins.conf
+2019-06-13 23:37:09		Options reloaded from charset.conf
+2019-06-13 23:37:09		Options reloaded from logger.conf
+2019-06-13 23:37:09		Options reloaded from exec.conf
+2019-06-13 23:37:09		Options reloaded from trigger.conf
+2019-06-13 23:37:09		Options reloaded from aspell.conf
+2019-06-13 23:37:09		Options reloaded from alias.conf
+2019-06-13 23:37:09		Options reloaded from buflist.conf
+2019-06-13 23:37:09		Options reloaded from fifo.conf
+2019-06-13 23:37:09		Options reloaded from xfer.conf
+2019-06-13 23:37:10		Options reloaded from irc.conf
+2019-06-13 23:37:10		Options reloaded from relay.conf
+2019-06-13 23:37:10		Options reloaded from script.conf
+2019-06-13 23:37:33		Options reloaded from sec.conf
+2019-06-13 23:37:33		Options reloaded from weechat.conf
+2019-06-13 23:37:33		Options reloaded from plugins.conf
+2019-06-13 23:37:33		Options reloaded from charset.conf
+2019-06-13 23:37:33		Options reloaded from logger.conf
+2019-06-13 23:37:33		Options reloaded from exec.conf
+2019-06-13 23:37:33		Options reloaded from trigger.conf
+2019-06-13 23:37:33		Options reloaded from aspell.conf
+2019-06-13 23:37:33		Options reloaded from alias.conf
+2019-06-13 23:37:33		Options reloaded from buflist.conf
+2019-06-13 23:37:33		Options reloaded from fifo.conf
+2019-06-13 23:37:33		Options reloaded from xfer.conf
+2019-06-13 23:37:33		Options reloaded from irc.conf
+2019-06-13 23:37:33		Options reloaded from relay.conf
+2019-06-13 23:37:33		Options reloaded from script.conf
+2019-06-14 09:18:11		Options reloaded from sec.conf
+2019-06-14 09:18:11		Options reloaded from weechat.conf
+2019-06-14 09:18:11		Options reloaded from plugins.conf
+2019-06-14 09:18:11		Options reloaded from charset.conf
+2019-06-14 09:18:11		Options reloaded from logger.conf
+2019-06-14 09:18:11		Options reloaded from exec.conf
+2019-06-14 09:18:11		Options reloaded from trigger.conf
+2019-06-14 09:18:11		Options reloaded from aspell.conf
+2019-06-14 09:18:11		Options reloaded from alias.conf
+2019-06-14 09:18:11		Options reloaded from buflist.conf
+2019-06-14 09:18:11		Options reloaded from fifo.conf
+2019-06-14 09:18:11		Options reloaded from xfer.conf
+2019-06-14 09:18:11		Options reloaded from irc.conf
+2019-06-14 09:18:11		Options reloaded from relay.conf
+2019-06-14 09:18:11		Options reloaded from script.conf
+2019-06-14 09:18:16		Options saved to sec.conf
+2019-06-14 09:18:16		Options saved to weechat.conf
+2019-06-14 09:18:16		Options saved to plugins.conf
+2019-06-14 09:18:16		Options saved to charset.conf
+2019-06-14 09:18:16		Options saved to logger.conf
+2019-06-14 09:18:16		Options saved to exec.conf
+2019-06-14 09:18:16		Options saved to trigger.conf
+2019-06-14 09:18:16		Options saved to aspell.conf
+2019-06-14 09:18:16		Options saved to alias.conf
+2019-06-14 09:18:16		Options saved to buflist.conf
+2019-06-14 09:18:16		Options saved to fifo.conf
+2019-06-14 09:18:16		Options saved to xfer.conf
+2019-06-14 09:18:16		Options saved to irc.conf
+2019-06-14 09:18:16		Options saved to relay.conf
+2019-06-14 09:18:16		Options saved to script.conf
+2019-06-14 09:20:38		fifo: pipe closed
+2019-06-14 09:34:34		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-06-18 13:00:04		Options reloaded from sec.conf
+2019-06-18 13:00:04		Options reloaded from weechat.conf
+2019-06-18 13:00:04		Options reloaded from plugins.conf
+2019-06-18 13:00:04		Options reloaded from charset.conf
+2019-06-18 13:00:04		Options reloaded from logger.conf
+2019-06-18 13:00:04		Options reloaded from exec.conf
+2019-06-18 13:00:04		Options reloaded from trigger.conf
+2019-06-18 13:00:04		Options reloaded from aspell.conf
+2019-06-18 13:00:04		Options reloaded from alias.conf
+2019-06-18 13:00:04		Options reloaded from buflist.conf
+2019-06-18 13:00:04		Options reloaded from fifo.conf
+2019-06-18 13:00:04		Options reloaded from xfer.conf
+2019-06-18 13:00:04		Options reloaded from irc.conf
+2019-06-18 13:00:04		Options reloaded from relay.conf
+2019-06-18 13:00:04		Options reloaded from script.conf
+2019-06-19 14:26:06		fifo: pipe closed
+2019-06-19 14:28:14		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-06-25 09:32:38		Options reloaded from sec.conf
+2019-06-25 09:32:38		Options reloaded from weechat.conf
+2019-06-25 09:32:39		Options reloaded from plugins.conf
+2019-06-25 09:32:39		Options reloaded from charset.conf
+2019-06-25 09:32:39		Options reloaded from logger.conf
+2019-06-25 09:32:39		Options reloaded from exec.conf
+2019-06-25 09:32:39		Options reloaded from trigger.conf
+2019-06-25 09:32:39		Options reloaded from aspell.conf
+2019-06-25 09:32:39		Options reloaded from alias.conf
+2019-06-25 09:32:39		Options reloaded from buflist.conf
+2019-06-25 09:32:39		Options reloaded from fifo.conf
+2019-06-25 09:32:39		Options reloaded from xfer.conf
+2019-06-25 09:32:39		Options reloaded from irc.conf
+2019-06-25 09:32:39		Options reloaded from relay.conf
+2019-06-25 09:32:39		Options reloaded from script.conf
+2019-06-25 18:01:43	 !!! 	irc: server "'all" not found
+2019-06-26 09:10:21		Options reloaded from sec.conf
+2019-06-26 09:10:21		Options reloaded from weechat.conf
+2019-06-26 09:10:21		Options reloaded from plugins.conf
+2019-06-26 09:10:21		Options reloaded from charset.conf
+2019-06-26 09:10:21		Options reloaded from logger.conf
+2019-06-26 09:10:21		Options reloaded from exec.conf
+2019-06-26 09:10:21		Options reloaded from trigger.conf
+2019-06-26 09:10:21		Options reloaded from aspell.conf
+2019-06-26 09:10:21		Options reloaded from alias.conf
+2019-06-26 09:10:21		Options reloaded from buflist.conf
+2019-06-26 09:10:21		Options reloaded from fifo.conf
+2019-06-26 09:10:21		Options reloaded from xfer.conf
+2019-06-26 09:10:21		Options reloaded from irc.conf
+2019-06-26 09:10:21		Options reloaded from relay.conf
+2019-06-26 09:10:21		Options reloaded from script.conf
+2019-06-27 05:57:31		fifo: pipe closed
+2019-06-27 09:47:41		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-06-27 09:47:46		fifo: pipe closed
+2019-06-27 09:48:01		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-06-28 10:18:17		fifo: pipe closed
+2019-06-28 10:22:50		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-06-28 11:04:15		fifo: pipe closed
+2019-06-29 09:41:23		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-06-29 12:35:42	 !!! 	Error: unknown command "/quitq" (type /help for help)
+2019-06-29 12:35:44		fifo: pipe closed
+2019-06-30 10:16:28		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-07-01 12:48:03		fifo: pipe closed
+2019-07-02 11:51:29		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-07-03 20:39:23		fifo: pipe closed
+2019-07-04 16:56:29		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-07-07 11:02:53		fifo: pipe closed
+2019-07-07 17:16:43		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-07-07 18:22:13		fifo: pipe closed
+2019-07-08 00:24:03		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-07-10 22:08:50		fifo: pipe closed
+2019-07-11 09:03:11		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-07-16 09:07:48		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-07-17 14:51:26		fifo: pipe closed
+2019-07-18 09:03:08		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-07-18 11:02:21		fifo: pipe closed
+2019-07-18 11:49:41		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-07-25 01:21:47		fifo: pipe closed
+2019-07-25 11:42:44		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-07-29 00:07:15		fifo: pipe closed
+2019-07-29 00:07:17		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-07-30 10:35:36		Options reloaded from sec.conf
+2019-07-30 10:35:36		Options reloaded from weechat.conf
+2019-07-30 10:35:36		Options reloaded from plugins.conf
+2019-07-30 10:35:36		Options reloaded from charset.conf
+2019-07-30 10:35:36		Options reloaded from logger.conf
+2019-07-30 10:35:36		Options reloaded from exec.conf
+2019-07-30 10:35:36		Options reloaded from trigger.conf
+2019-07-30 10:35:36		Options reloaded from aspell.conf
+2019-07-30 10:35:36		Options reloaded from alias.conf
+2019-07-30 10:35:36		Options reloaded from buflist.conf
+2019-07-30 10:35:36		Options reloaded from fifo.conf
+2019-07-30 10:35:36		Options reloaded from xfer.conf
+2019-07-30 10:35:36		Options reloaded from irc.conf
+2019-07-30 10:35:36		Options reloaded from relay.conf
+2019-07-30 10:35:36		Options reloaded from script.conf
+2019-07-30 10:35:57		Options reloaded from sec.conf
+2019-07-30 10:35:57		Options reloaded from weechat.conf
+2019-07-30 10:35:57		Options reloaded from plugins.conf
+2019-07-30 10:35:57		Options reloaded from charset.conf
+2019-07-30 10:35:57		Options reloaded from logger.conf
+2019-07-30 10:35:57		Options reloaded from exec.conf
+2019-07-30 10:35:57		Options reloaded from trigger.conf
+2019-07-30 10:35:57		Options reloaded from aspell.conf
+2019-07-30 10:35:57		Options reloaded from alias.conf
+2019-07-30 10:35:57		Options reloaded from buflist.conf
+2019-07-30 10:35:57		Options reloaded from fifo.conf
+2019-07-30 10:35:57		Options reloaded from xfer.conf
+2019-07-30 10:35:57		Options reloaded from irc.conf
+2019-07-30 10:35:57		Options reloaded from relay.conf
+2019-07-30 10:35:57		Options reloaded from script.conf
+2019-07-30 10:35:58		fifo: pipe closed
+2019-07-30 10:36:03		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2019-07-30 11:10:26		irc: server irc.cryto.net added (temporary server, NOT SAVED!)
+2019-07-30 11:10:52		irc: server haless.cryto.net added (temporary server, NOT SAVED!)
+2019-07-30 11:11:11		irc: server 6697 added (temporary server, NOT SAVED!)
+2019-07-31 20:31:14		fifo: pipe closed
+2019-07-31 20:31:19		Plugins loaded: alias, buflist, charset, irc, logger, xfer
+2019-07-31 20:31:28		Plugins loaded: alias, buflist, charset, irc, logger, xfer
+2019-07-31 23:36:22		Plugins loaded: alias, buflist, charset, irc, logger, xfer
+2019-07-31 23:36:39	 !!! 	irc: command "nick" must be executed on irc buffer (server or channel)
+2019-08-01 11:14:48		Plugins loaded: alias, buflist, charset, irc, logger, xfer
+2019-08-01 11:48:56		Plugins loaded: alias, buflist, charset, irc, logger, xfer
+2019-08-01 11:49:09		Plugins loaded: alias, buflist, charset, irc, logger, xfer
+2019-08-01 11:49:26		Plugins loaded: alias, buflist, charset, irc, logger, xfer
+2019-08-05 10:36:14		Plugins loaded: alias, buflist, charset, irc, logger, xfer
+2019-08-05 11:27:43		Plugins loaded: alias, buflist, charset, irc, logger, xfer
+2019-08-05 16:08:52		Plugins loaded: alias, buflist, charset, irc, logger, xfer
+2019-08-05 16:21:50		Plugins loaded: alias, buflist, charset, irc, logger, xfer
+2019-08-05 17:20:21		Plugins loaded: alias, buflist, charset, irc, logger, xfer
+2019-08-05 22:23:37		Plugins loaded: alias, buflist, charset, irc, logger, xfer
+2019-08-05 22:57:17		Plugins loaded: alias, buflist, charset, irc, logger, xfer
+2019-08-05 23:27:25		Plugins loaded: alias, buflist, charset, irc, logger, xfer
+2019-08-06 15:13:21		Plugins loaded: alias, buflist, charset, irc, logger, xfer
+2019-08-06 21:15:39		Plugins loaded: alias, buflist, charset, irc, logger, xfer
+2019-08-06 21:28:41		Plugins loaded: alias, buflist, charset, irc, logger, xfer
+2019-08-07 11:57:39		Plugins loaded: alias, buflist, charset, irc, logger, xfer
+2019-08-08 17:02:49		Plugins loaded: alias, buflist, charset, irc, logger, xfer
+2019-08-11 16:57:52		Plugins loaded: alias, buflist, charset, irc, logger, xfer
+2019-08-12 16:57:46		Plugins loaded: alias, buflist, charset, irc, logger, xfer
+2019-08-12 17:15:50		Options reloaded from sec.conf
+2019-08-12 17:15:50		Options reloaded from weechat.conf
+2019-08-12 17:15:50		Options reloaded from plugins.conf
+2019-08-12 17:15:50		Options reloaded from charset.conf
+2019-08-12 17:15:50		Options reloaded from logger.conf
+2019-08-12 17:15:50		Options reloaded from alias.conf
+2019-08-12 17:15:50		Options reloaded from buflist.conf
+2019-08-12 17:15:50		Options reloaded from xfer.conf
+2019-08-12 17:15:50		Options reloaded from irc.conf
+2019-08-12 17:16:03		Options reloaded from sec.conf
+2019-08-12 17:16:03		Options reloaded from weechat.conf
+2019-08-12 17:16:03		Options reloaded from plugins.conf
+2019-08-12 17:16:03		Options reloaded from charset.conf
+2019-08-12 17:16:03		Options reloaded from logger.conf
+2019-08-12 17:16:03		Options reloaded from alias.conf
+2019-08-12 17:16:03		Options reloaded from buflist.conf
+2019-08-12 17:16:03		Options reloaded from xfer.conf
+2019-08-12 17:16:03		Options reloaded from irc.conf
+2019-08-13 12:04:54		Option created: logger.level.irc = 3  (default: 9)
+2019-08-13 12:05:23		Option created: logger.level.irc.frenode.##linux = 0  (default: 9)
+2019-08-13 12:05:26		Options saved to sec.conf
+2019-08-13 12:05:26		Options saved to weechat.conf
+2019-08-13 12:05:26		Options saved to plugins.conf
+2019-08-13 12:05:26		Options saved to charset.conf
+2019-08-13 12:05:26		Options saved to logger.conf
+2019-08-13 12:05:26		Options saved to alias.conf
+2019-08-13 12:05:26		Options saved to buflist.conf
+2019-08-13 12:05:26		Options saved to xfer.conf
+2019-08-13 12:05:26		Options saved to irc.conf
+2019-08-13 18:11:08		Plugins loaded: alias, buflist, charset, irc, logger, xfer
+2019-08-13 23:23:18		Plugins loaded: alias, buflist, charset, irc, logger, xfer
+2019-08-14 18:34:25		Plugins loaded: alias, buflist, charset, irc, logger, xfer
+2019-08-18 10:21:30		Plugins loaded: alias, buflist, charset, irc, logger, xfer
+2019-08-18 10:21:47		Plugins loaded: alias, buflist, charset, irc, logger, xfer
+2019-08-18 16:35:37		Plugins loaded: alias, buflist, charset, irc, logger, xfer
+2019-08-19 09:52:04		Plugins loaded: alias, buflist, charset, irc, logger, xfer
+2019-08-19 17:12:01		Plugins loaded: alias, buflist, charset, irc, logger, xfer
+2019-08-20 11:36:34		Plugins loaded: alias, buflist, charset, irc, logger, xfer
+2019-08-20 11:48:59		Plugins loaded: alias, buflist, charset, irc, logger, xfer
+2019-08-20 16:10:35		Plugins loaded: alias, buflist, charset, irc, logger, xfer
+2019-08-21 09:37:24		Plugins loaded: alias, buflist, charset, irc, logger, xfer
+2019-08-21 14:58:39		Options reloaded from sec.conf
+2019-08-21 14:58:39		Options reloaded from weechat.conf
+2019-08-21 14:58:39		Options reloaded from plugins.conf
+2019-08-21 14:58:39		Options reloaded from charset.conf
+2019-08-21 14:58:39		Options reloaded from logger.conf
+2019-08-21 14:58:39		Options reloaded from alias.conf
+2019-08-21 14:58:39		Options reloaded from buflist.conf
+2019-08-21 14:58:39		Options reloaded from xfer.conf
+2019-08-21 14:58:39		Options reloaded from irc.conf
+2019-08-21 14:58:55		Options reloaded from sec.conf
+2019-08-21 14:58:55		Options reloaded from weechat.conf
+2019-08-21 14:58:55		Options reloaded from plugins.conf
+2019-08-21 14:58:55		Options reloaded from charset.conf
+2019-08-21 14:58:55		Options reloaded from logger.conf
+2019-08-21 14:58:55		Options reloaded from alias.conf
+2019-08-21 14:58:55		Options reloaded from buflist.conf
+2019-08-21 14:58:55		Options reloaded from xfer.conf
+2019-08-21 14:58:55		Options reloaded from irc.conf
+2019-08-21 14:59:43		Options reloaded from sec.conf
+2019-08-21 14:59:43		Options reloaded from weechat.conf
+2019-08-21 14:59:43		Options reloaded from plugins.conf
+2019-08-21 14:59:43		Options reloaded from charset.conf
+2019-08-21 14:59:43		Options reloaded from logger.conf
+2019-08-21 14:59:43		Options reloaded from alias.conf
+2019-08-21 14:59:43		Options reloaded from buflist.conf
+2019-08-21 14:59:43		Options reloaded from xfer.conf
+2019-08-21 14:59:43		Options reloaded from irc.conf
+2019-08-21 21:40:47		Plugins loaded: alias, buflist, charset, irc, logger, xfer
+2019-08-23 09:56:50		Plugins loaded: alias, buflist, charset, irc, logger, xfer
+2019-08-23 11:54:46		Plugins loaded: alias, buflist, charset, irc, logger, xfer
+2019-08-23 16:09:29		Options reloaded from sec.conf
+2019-08-23 16:09:29		Options reloaded from weechat.conf
+2019-08-23 16:09:29		Options reloaded from plugins.conf
+2019-08-23 16:09:29		Options reloaded from charset.conf
+2019-08-23 16:09:29		Options reloaded from logger.conf
+2019-08-23 16:09:29		Options reloaded from alias.conf
+2019-08-23 16:09:29		Options reloaded from buflist.conf
+2019-08-23 16:09:29		Options reloaded from xfer.conf
+2019-08-23 16:09:29		Options reloaded from irc.conf
+2019-08-23 16:09:55		Options reloaded from sec.conf
+2019-08-23 16:09:55		Options reloaded from weechat.conf
+2019-08-23 16:09:55		Options reloaded from plugins.conf
+2019-08-23 16:09:55		Options reloaded from charset.conf
+2019-08-23 16:09:55		Options reloaded from logger.conf
+2019-08-23 16:09:55		Options reloaded from alias.conf
+2019-08-23 16:09:55		Options reloaded from buflist.conf
+2019-08-23 16:09:55		Options reloaded from xfer.conf
+2019-08-23 16:09:55		Options reloaded from irc.conf
+2019-08-24 12:03:30		Options reloaded from sec.conf
+2019-08-24 12:03:30		Options reloaded from weechat.conf
+2019-08-24 12:03:30		Options reloaded from plugins.conf
+2019-08-24 12:03:30		Options reloaded from charset.conf
+2019-08-24 12:03:30		Options reloaded from logger.conf
+2019-08-24 12:03:30		Options reloaded from alias.conf
+2019-08-24 12:03:30		Options reloaded from buflist.conf
+2019-08-24 12:03:30		Options reloaded from xfer.conf
+2019-08-24 12:03:30		Options reloaded from irc.conf
+2019-08-24 12:11:02		Plugins loaded: alias, buflist, charset, irc, logger, xfer
+2019-08-25 10:22:46		Plugins loaded: alias, buflist, charset, irc, logger, xfer
+2019-08-25 10:22:53		Plugins loaded: alias, buflist, charset, irc, logger, xfer
+2019-08-25 11:54:58		Plugins loaded: alias, buflist, charset, irc, logger, xfer
+2019-08-25 12:11:04		Plugins loaded: alias, buflist, charset, irc, logger, xfer
+2019-08-25 12:18:34		Plugins loaded: alias, buflist, charset, irc, logger, xfer

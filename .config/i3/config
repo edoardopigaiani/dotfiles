@@ -1,0 +1,182 @@
+#i3 config file by chappo
+set $mod Mod4
+client.focused          #458588 #458588 #1d2021 #458588
+client.focused_inactive #1d2021 #1d2021 #1d2021 #928374
+client.unfocused        #1d2021 #1d2021 #ebdbb2 #1d2021
+client.urgent           #458588 #458588 #1d2021 #458588
+client.placeholder      #1D2330 #1D2330 #1d2021 #1D2330
+
+# bind keys needed for volume, backlight control, screen locking and suspension
+bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume 0 +5%
+bindsym XF86AudioLowerVolume exec --no-startup-id pactl set-sink-volume 0 -5%
+bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute 0 toggle
+bindsym XF86MonBrightnessUp exec --no-startup-id brightnessctl s 5%+
+bindsym XF86MonBrightnessDown exec --no-startup-id brightnessctl s 5%-
+bindsym Print exec --no-startup-id maim -s | xclip -selection clipboard -t image/png;
+bindsym F10 exec --no-startup-id arandr
+bindsym F9 exec --no-startup-id i3lock -c 1d2021 -u;
+bindsym Ctrl+F9 exec --no-startup-id i3lock -c 1d2021 -u & systemctl suspend;
+
+# font for everything
+font pango: Terminus 9
+
+# window borders
+for_window [class="^.*"] border 1pixel
+new_window pixel 1
+
+# define mod key
+floating_modifier $mod
+
+# toggle sticky windows
+bindsym $mod+Shift+s sticky toggle
+
+# toggle bar
+bindsym $mod+b bar mode toggle
+
+#workspaces
+set $ws1 "1"
+set $ws2 "2"
+set $ws3 "3"
+set $ws4 "4"
+set $ws5 "5"
+set $ws6 "6"
+set $ws7 "7"
+set $ws8 "8"
+set $ws9 "9"
+set $ws10 "10"
+
+# custom keybindings
+bindsym $mod+t exec termite
+
+# kill focused window
+bindsym $mod+Shift+q kill
+
+# launch dmenu
+#bindsym $mod+d exec --no-startup-id dmenu_run -p "" -fn "Tamzen-9" -nb "#1d2021" -nf "#ebdbb2" -sb "#458588" -sf "#1d2021"
+bindsym $mod+d exec --no-startup-id rofi -show run -theme dark
+
+# change window focus
+bindsym $mod+j focus left
+bindsym $mod+k focus down
+bindsym $mod+l focus up
+bindsym $mod+semicolon focus right
+
+# alternatively, you can use the cursor keys:
+bindsym $mod+Left focus left
+bindsym $mod+Down focus down
+bindsym $mod+Up focus up
+bindsym $mod+Right focus right
+
+# move focused window
+bindsym $mod+Shift+j move left
+bindsym $mod+Shift+k move down
+bindsym $mod+Shift+l move up
+bindsym $mod+Shift+semicolon move right
+
+# alternatively, you can use the cursor keys:
+bindsym $mod+Shift+Left move left
+bindsym $mod+Shift+Down move down
+bindsym $mod+Shift+Up move up
+bindsym $mod+Shift+Right move right
+
+# split in horizontal orientation
+bindsym $mod+h split h
+
+# split in vertical orientation
+bindsym $mod+v split v
+
+# enter fullscreen mode for the focused container
+bindsym $mod+f fullscreen toggle
+
+# change container layout (stacked, tabbed, toggle split)
+bindsym $mod+s layout stacking
+bindsym $mod+w layout tabbed
+bindsym $mod+e layout toggle split
+workspace_layout stacking
+
+# toggle tiling / floating
+bindsym $mod+Shift+space floating toggle
+
+# change focus between tiling / floating windows
+bindsym $mod+space focus mode_toggle
+
+# focus the parent container
+bindsym $mod+a focus parent
+
+# switch to workspace
+bindsym $mod+1 workspace $ws1
+bindsym $mod+2 workspace $ws2
+bindsym $mod+3 workspace $ws3
+bindsym $mod+4 workspace $ws4
+bindsym $mod+5 workspace $ws5
+bindsym $mod+6 workspace $ws6
+bindsym $mod+7 workspace $ws7
+bindsym $mod+8 workspace $ws8
+bindsym $mod+9 workspace $ws9
+bindsym $mod+0 workspace $ws10
+
+# move focused container to workspace
+bindsym $mod+Shift+1 move container to workspace $ws1
+bindsym $mod+Shift+2 move container to workspace $ws2
+bindsym $mod+Shift+3 move container to workspace $ws3
+bindsym $mod+Shift+4 move container to workspace $ws4
+bindsym $mod+Shift+5 move container to workspace $ws5
+
+# reload the configuration file
+bindsym $mod+Shift+c reload
+# restart i3 inplace (preserves your layout/session, can be used to upgrade i3)
+bindsym $mod+Shift+r restart
+# exit i3 (logs you out of your X session)
+bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'Exit?' -b 'Y'"
+
+# resize window (you can also use the mouse for that)
+mode "resize" {
+        # These bindings trigger as soon as you enter the resize mode
+
+        bindsym j resize shrink width 5 px or 5 ppt
+        bindsym k resize grow height 5 px or 5 ppt
+        bindsym l resize shrink height 5 px or 5 ppt
+        bindsym semicolon resize grow width 5 px or 5 ppt
+
+        # same bindings, but for the arrow keys
+        bindsym Left resize shrink width 1 px or 1 ppt
+        bindsym Down resize grow height 1 px or 1 ppt
+        bindsym Up resize shrink height 1 px or 1 ppt
+        bindsym Right resize grow width 1 px or 1 ppt
+
+        # back to normal: Enter or Escape
+        bindsym Return mode "default"
+        bindsym Escape mode "default"
+}
+
+bindsym $mod+r mode "resize"
+focus_follows_mouse no
+# i3bar settings, i3status.conf for everything else
+bar {
+	colors {
+	background #1d2021
+        statusline #ebdbb2
+        separator  #458588
+        focused_workspace  #458588 #1d2021 #ebdbb2
+        active_workspace   #1d2021 #1d2021 #ebdbb2
+        inactive_workspace #1d2021 #1d2021 #ebdbb2
+        urgent_workspace   #458588 #1d2021 #ebdbb2
+	}
+	position bottom
+        tray_output none
+	# mode invisible
+	# launch i3status if needed
+	status_command i3status -c /home/chap/.config/i3/i3status.conf
+}
+
+# Start Gnome session
+
+exec --no-startup-id /usr/lib/gnome-settings-daemon/gsd-xsettings
+exec_always --no-startup-id gnome-power-manager
+exec --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
+exec --no-startup-id gnome-flashback
+
+# Specifig settings
+
+#for_window [title="Google Chrome"] floating enable, resize set 1200px 700px
+#for_window [title="tmux /home/chap"] floating enable, resize set 600px 300px
