@@ -1,4 +1,0 @@
-[2019-10-24 12:41:49.699] [renderer1] [error] Unable to write into user settings. Please open the user settings to correct errors/warnings in it and try again.: Error: Unable to write into user settings. Please open the user settings to correct errors/warnings in it and try again.
-    at D.reject (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4513:395)
-    at t.resource.resolveModelReference.then.n (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4516:575)
-    at process._tickCallback (internal/process/next_tick.js:68:7)
