@@ -1,10 +1,10 @@
 #i3 config file by chappo
 set $mod Mod4
-client.focused          #458588 #458588 #1d2021 #458588
-client.focused_inactive #1d2021 #1d2021 #1d2021 #928374
-client.unfocused        #1d2021 #1d2021 #ebdbb2 #1d2021
-client.urgent           #458588 #458588 #1d2021 #458588
-client.placeholder      #1D2330 #1D2330 #1d2021 #1D2330
+client.focused          #458588 #458588 #000000 #458588
+client.focused_inactive #000000 #000000 #000000 #928374
+client.unfocused        #000000 #000000 #ebdbb2 #000000
+client.urgent           #458588 #458588 #000000 #458588
+client.placeholder      #1D2330 #1D2330 #000000 #1D2330
 
 # bind keys needed for volume, backlight control, screen locking and suspension
 bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume 0 +5%
@@ -14,8 +14,8 @@ bindsym XF86MonBrightnessUp exec --no-startup-id brightnessctl s 5%+
 bindsym XF86MonBrightnessDown exec --no-startup-id brightnessctl s 5%-
 bindsym Print exec --no-startup-id maim -s | xclip -selection clipboard -t image/png;
 bindsym F10 exec --no-startup-id arandr
-bindsym F9 exec --no-startup-id i3lock -c 1d2021 -u;
-bindsym Ctrl+F9 exec --no-startup-id i3lock -c 1d2021 -u & systemctl suspend;
+bindsym F9 exec --no-startup-id i3lock -c 000000 -u;
+bindsym Ctrl+F9 exec --no-startup-id i3lock -c 000000 -u & systemctl suspend;
 
 # font for everything
 font pango: Terminus 9
@@ -52,7 +52,7 @@ bindsym $mod+t exec termite
 bindsym $mod+Shift+q kill
 
 # launch dmenu
-#bindsym $mod+d exec --no-startup-id dmenu_run -p "" -fn "Tamzen-9" -nb "#1d2021" -nf "#ebdbb2" -sb "#458588" -sf "#1d2021"
+#bindsym $mod+d exec --no-startup-id dmenu_run -p "" -fn "Tamzen-9" -nb "#000000" -nf "#ebdbb2" -sb "#458588" -sf "#000000"
 bindsym $mod+d exec --no-startup-id rofi -show run -theme dark
 
 # change window focus
@@ -154,13 +154,13 @@ focus_follows_mouse no
 # i3bar settings, i3status.conf for everything else
 bar {
 	colors {
-	background #1d2021
+	background #000000
         statusline #ebdbb2
         separator  #458588
-        focused_workspace  #458588 #1d2021 #ebdbb2
-        active_workspace   #1d2021 #1d2021 #ebdbb2
-        inactive_workspace #1d2021 #1d2021 #ebdbb2
-        urgent_workspace   #458588 #1d2021 #ebdbb2
+        focused_workspace  #458588 #000000 #ebdbb2
+        active_workspace   #000000 #000000 #ebdbb2
+        inactive_workspace #000000 #000000 #ebdbb2
+        urgent_workspace   #458588 #000000 #ebdbb2
 	}
 	position bottom
         tray_output none

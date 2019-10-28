@@ -1,0 +1,440 @@
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['morning', 'afternoon', 'evening']
+
+[Done] exited with code=0 in 0.253 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['morning', 'afternoon', 'evening']
+
+[Done] exited with code=0 in 0.114 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['morning', 'afternoon', 'evening']
+
+[Done] exited with code=0 in 0.122 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['morning', 'afternoon', 'evening']
+
+[Done] exited with code=0 in 0.1 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['morning', 'afternoon', 'evening']
+
+[Done] exited with code=0 in 0.086 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['morning', 'afternoon', 'evening']
+This is how you pick only one element form a list and print it:
+morning
+
+[Done] exited with code=0 in 0.081 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening']
+This is how you pick only one element form a list and print it:
+Morning
+<built-in method capitalize of str object at 0x7fab6c9a9a30>
+
+[Done] exited with code=0 in 0.082 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening']
+This is how you pick only one element form a list and print it:
+Morning
+Morning
+
+[Done] exited with code=0 in 0.082 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening']
+This is how you pick only one element form a list and print it:
+Morning
+MORNING
+
+[Done] exited with code=0 in 0.083 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening']
+This is how you pick only one element form a list and print it:
+Morning
+This is how you use string methods in lists:
+MORNING
+
+[Done] exited with code=0 in 0.148 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening']
+This is how you pick only one element form a list and print it:
+Morning
+This is how you use string methods in lists:
+MORNING
+
+[Done] exited with code=0 in 0.083 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening']
+This is how you pick only one element form a list and print it:
+
+Morning
+This is how you use string methods in lists:
+
+MORNING
+
+[Done] exited with code=0 in 0.091 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening']
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+
+[Done] exited with code=0 in 0.083 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+Morning
+Afternoon
+
+[Done] exited with code=0 in 0.086 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+
+[Done] exited with code=0 in 0.082 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Evening
+
+[Done] exited with code=0 in 0.082 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Evening
+A day is divided between four parts, it is currently Morning
+
+[Done] exited with code=0 in 0.236 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+
+[Done] exited with code=0 in 0.082 seconds
+

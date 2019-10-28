@@ -21,16 +21,16 @@ cursor_shape = block
 browser = firefox
 
 [colors]
-# hard contrast: background = #1d2021
-background = #1d2021
+# hard contrast: background = #000000
+background = #000000
 # soft contrast: background = #32302f
-foreground = #ebdbb2
-foreground_bold = #ebdbb2
+foreground = #FFD7AF
+foreground_bold = #FFD7AF
 cursor = #8a8a8a
 cursor_foreground = #8a8a8a
 
 # dark0 + gray
-color0 = #1d2021
+color0 = #000000
 color8 = #8a8a8a
 
 # neutral_red + bright_red
@@ -58,7 +58,7 @@ color6 = #689d6a
 color14 = #8ec07c
 
 # light4 + light1
-color7 = #ebdbb2
-color15 = #ebdbb2
+color7 = #FFD7AF
+color15 = #FFD7AF
 
 # vim: ft=dosini cms=#%s

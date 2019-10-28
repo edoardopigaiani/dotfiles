@@ -1,0 +1,4364 @@
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+
+[Done] exited with code=0 in 0.112 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+
+[Done] exited with code=0 in 0.083 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+
+[Done] exited with code=0 in 0.083 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+  File "/home/chap/Projects/Python/Class/Book/crash.py", line 71
+    message = f"Hi," {friends[0]}
+                     ^
+SyntaxError: invalid syntax
+
+[Done] exited with code=1 in 0.082 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+
+[Done] exited with code=0 in 0.086 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+
+[Done] exited with code=0 in 0.086 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco
+
+[Done] exited with code=0 in 0.083 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+
+[Done] exited with code=0 in 0.085 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+
+[Done] exited with code=0 in 0.082 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+
+[Done] exited with code=0 in 0.089 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+
+[Done] exited with code=0 in 0.087 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+
+[Done] exited with code=0 in 0.084 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car
+
+[Done] exited with code=0 in 0.086 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+
+[Done] exited with code=0 in 0.098 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+
+[Done] exited with code=0 in 0.365 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+
+[Done] exited with code=0 in 0.085 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+
+[Done] exited with code=0 in 0.086 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+
+[Done] exited with code=0 in 0.083 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Yamaha', 'Ducati']
+
+[Done] exited with code=0 in 0.082 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati']
+
+[Done] exited with code=0 in 0.086 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati']
+['Ducati']
+
+[Done] exited with code=0 in 0.083 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati']
+['Honda']
+
+[Done] exited with code=0 in 0.086 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Suzuki', 'Ducati', 'Kawasaki']
+['Suzuki', 'Kawasaki']
+Traceback (most recent call last):
+  File "/home/chap/Projects/Python/Class/Book/crash.py", line 121, in <module>
+    motorcycles.remove('Ducati')
+ValueError: list.remove(x): x not in list
+
+[Done] exited with code=1 in 0.229 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Suzuki', 'Ducati', 'Kawasaki']
+['Suzuki', 'Kawasaki']
+Traceback (most recent call last):
+  File "/home/chap/Projects/Python/Class/Book/crash.py", line 122, in <module>
+    motorcycles.remove('Ducati')
+ValueError: list.remove(x): x not in list
+
+[Done] exited with code=1 in 0.081 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Suzuki', 'Ducati', 'Kawasaki']
+['Suzuki', 'Kawasaki']
+Traceback (most recent call last):
+  File "/home/chap/Projects/Python/Class/Book/crash.py", line 122, in <module>
+    motorcycles.remove('Ducati')
+ValueError: list.remove(x): x not in list
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Suzuki', 'Ducati', 'Kawasaki']
+['Suzuki', 'Kawasaki']
+['Suzuki']
+
+[Done] exited with code=0 in 0.087 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Suzuki', 'Ducati', 'Kawasaki']
+['Suzuki', 'Kawasaki']
+Traceback (most recent call last):
+  File "/home/chap/Projects/Python/Class/Book/crash.py", line 122, in <module>
+    motorcycles.remove('Ducati')
+ValueError: list.remove(x): x not in list
+
+[Done] exited with code=1 in 0.082 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda']
+
+[Done] exited with code=0 in 0.083 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Suzuki', 'Ducati', 'Kawasaki']
+['Suzuki', 'Kawasaki']
+Traceback (most recent call last):
+  File "/home/chap/Projects/Python/Class/Book/crash.py", line 122, in <module>
+    motorcycles.remove('Ducati')
+ValueError: list.remove(x): x not in list
+
+[Done] exited with code=1 in 0.089 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+Traceback (most recent call last):
+  File "/home/chap/Projects/Python/Class/Book/crash.py", line 118, in <module>
+    del motorcycles[3]
+IndexError: list assignment index out of range
+
+[Done] exited with code=1 in 0.089 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+Traceback (most recent call last):
+  File "/home/chap/Projects/Python/Class/Book/crash.py", line 118, in <module>
+    del motorcycles[3]
+IndexError: list assignment index out of range
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+Traceback (most recent call last):
+  File "/home/chap/Projects/Python/Class/Book/crash.py", line 118, in <module>
+    del motorcycles[3]
+IndexError: list assignment index out of range
+
+[Done] exited with code=1 in 0.095 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+Traceback (most recent call last):
+  File "/home/chap/Projects/Python/Class/Book/crash.py", line 118, in <module>
+    del motorcycles[3]
+IndexError: list assignment index out of range
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+Traceback (most recent call last):
+  File "/home/chap/Projects/Python/Class/Book/crash.py", line 118, in <module>
+    del motorcycles[3]
+IndexError: list assignment index out of range
+
+[Done] exited with code=1 in 0.083 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda']
+
+[Done] exited with code=0 in 0.085 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+
+[Done] exited with code=0 in 0.083 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+
+[Done] exited with code=0 in 0.088 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+Traceback (most recent call last):
+  File "/home/chap/Projects/Python/Class/Book/crash.py", line 129, in <module>
+    motorcycles.remove(too_expensive)
+ValueError: list.remove(x): x not in list
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+
+[Done] exited with code=0 in 0.083 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+Traceback (most recent call last):
+  File "/home/chap/Projects/Python/Class/Book/crash.py", line 142, in <module>
+    list.pop('Jack')
+TypeError: descriptor 'pop' requires a 'list' object but received a 'str'
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Suzuki
+Traceback (most recent call last):
+  File "/home/chap/Projects/Python/Class/Book/crash.py", line 142, in <module>
+    list.pop('Jack')
+TypeError: descriptor 'pop' requires a 'list' object but received a 'str'
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Suzuki
+Traceback (most recent call last):
+  File "/home/chap/Projects/Python/Class/Book/crash.py", line 142, in <module>
+    list.pop('Jack')
+TypeError: descriptor 'pop' requires a 'list' object but received a 'str'
+
+[Done] exited with code=1 in 0.084 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Suzuki
+Traceback (most recent call last):
+  File "/home/chap/Projects/Python/Class/Book/crash.py", line 142, in <module>
+    list.pop('Jack')
+TypeError: descriptor 'pop' requires a 'list' object but received a 'str'
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Suzuki
+
+[Done] exited with code=0 in 0.087 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+
+[Done] exited with code=0 in 0.085 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+
+[Done] exited with code=0 in 0.083 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+
+[Done] exited with code=0 in 0.084 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+
+[Done] exited with code=0 in 0.085 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+
+[Done] exited with code=0 in 0.084 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+
+[Done] exited with code=0 in 0.083 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+
+[Done] exited with code=0 in 0.091 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+
+[Done] exited with code=0 in 0.088 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+
+[Done] exited with code=0 in 0.083 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+
+[Done] exited with code=0 in 0.087 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+
+[Done] exited with code=0 in 0.086 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+
+[Done] exited with code=0 in 0.085 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+
+[Done] exited with code=0 in 0.09 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+
+[Done] exited with code=0 in 0.081 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+
+[Done] exited with code=0 in 0.085 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+
+[Done] exited with code=0 in 0.084 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+
+[Done] exited with code=0 in 0.083 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+
+[Done] exited with code=0 in 0.09 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+
+[Done] exited with code=0 in 0.084 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+Unfortunately Bob can't make it to the dinner because he's dead.
+
+[Done] exited with code=0 in 0.089 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+Unfortunately Bob can't make it to the dinner because he's dead.
+
+[Done] exited with code=0 in 0.085 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+Unfortunately Bob can't make it to the dinner because he's dead.
+
+[Done] exited with code=0 in 0.086 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+Unfortunately Bob can't make it to the dinner because he's dead.
+
+[Done] exited with code=0 in 0.097 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+Unfortunately Bob can't make it to the dinner because he's dead.
+['Jacob', 'Jack', 'Frank', 'John', 'Stewart']
+
+[Done] exited with code=0 in 0.086 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+Unfortunately Bob can't make it to the dinner because he's dead.
+['Jacob', 'Jack', 'Frank', 'John', 'Stewart']
+Hi, <built-in method capitalize of str object at 0x7f1292752c30>
+
+[Done] exited with code=0 in 0.088 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+Unfortunately Bob can't make it to the dinner because he's dead.
+['Jacob', 'Jack', 'Frank', 'John', 'Stewart']
+Hi, Jacob
+
+[Done] exited with code=0 in 0.086 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+Unfortunately Bob can't make it to the dinner because he's dead.
+['Jacob', 'Jack', 'Frank', 'John', 'Stewart']
+Jacob you're invited to have dinner with us.
+Hi, Jack you're invited to have dinner with us on monday.
+Hi, Frank you're invited...
+
+[Done] exited with code=0 in 0.088 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+Unfortunately Bob can't make it to the dinner because he's dead.
+['Jacob', 'Jack', 'Frank', 'John', 'Stewart']
+Jacob, you're invited to have dinner with us.
+Hi, Jack 
+Hi, Frank you're invited...
+
+[Done] exited with code=0 in 0.09 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+Unfortunately Bob can't make it to the dinner because he's dead.
+['Jacob', 'Jack', 'Frank', 'John', 'Stewart']
+Jacob, you're invited to have dinner with us.
+Hi, Jack, you're invited to have dinner with us.
+Hi, Frank, you're invited to have dinner with us.
+
+[Done] exited with code=0 in 0.091 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+Unfortunately Bob can't make it to the dinner because he's dead.
+['Jacob', 'Jack', 'Frank', 'John', 'Stewart']
+Hi, Jacob. you're invited to have dinner with us.
+Hi, Jack. you're invited to have dinner with us.
+Hi, Frank. you're invited to have dinner with us.
+
+[Done] exited with code=0 in 0.092 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+Traceback (most recent call last):
+  File "/home/chap/Projects/Python/Class/Book/crash.py", line 159, in <module>
+    print(f"Unfortunately {gusest_list[0]} can't make it to the dinner because he's dead.")
+NameError: name 'gusest_list' is not defined
+
+[Done] exited with code=1 in 0.089 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+Unfortunately Bob can't make it to the dinner because he's dead.
+['Jacob', 'Jack', 'Frank', 'John', 'Stewart']
+Hi, Jacob. you're invited to have dinner with us.
+Hi, Jack. you're invited to have dinner with us.
+Hi, Frank. you're invited to have dinner with us.
+Nvm, I found a bigger table. We can't have Bob back but we can invite more people.
+Traceback (most recent call last):
+  File "/home/chap/Projects/Python/Class/Book/crash.py", line 175, in <module>
+    guest_list.insert('Marianne')
+TypeError: insert() takes exactly 2 arguments (1 given)
+
+[Done] exited with code=1 in 0.089 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+Unfortunately Bob can't make it to the dinner because he's dead.
+['Jacob', 'Jack', 'Frank', 'John', 'Stewart']
+Hi, Jacob. you're invited to have dinner with us.
+Hi, Jack. you're invited to have dinner with us.
+Hi, Frank. you're invited to have dinner with us.
+Nvm, I found a bigger table. We can't have Bob back but we can invite more people.
+['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+
+[Done] exited with code=0 in 0.088 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+  File "<fstring>", line 1
+    (guest_list)[0])
+                   ^
+SyntaxError: unexpected EOF while parsing
+
+[Done] exited with code=1 in 0.09 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+Unfortunately Bob can't make it to the dinner because he's dead.
+['Jacob', 'Jack', 'Frank', 'John', 'Stewart']
+Hi, Jacob. you're invited to have dinner with us.
+Hi, Jack. you're invited to have dinner with us.
+Hi, Frank. you're invited to have dinner with us.
+Nvm, I found a bigger table. We can't have Bob back but we can invite more people.
+['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+Hi, Anne, you're invited to have dinner with us.
+
+[Done] exited with code=0 in 0.09 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+Unfortunately Bob can't make it to the dinner because he's dead.
+['Jacob', 'Jack', 'Frank', 'John', 'Stewart']
+Hi, Jacob. you're invited to have dinner with us.
+Hi, Jack. you're invited to have dinner with us.
+Hi, Frank. you're invited to have dinner with us.
+Nvm, I found a bigger table. We can't have Bob back but we can invite more people.
+['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+Traceback (most recent call last):
+  File "/home/chap/Projects/Python/Class/Book/crash.py", line 182, in <module>
+    print(f"Hi, {guest_list[0,1]}, {message}")
+TypeError: list indices must be integers or slices, not tuple
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+Unfortunately Bob can't make it to the dinner because he's dead.
+['Jacob', 'Jack', 'Frank', 'John', 'Stewart']
+Hi, Jacob. you're invited to have dinner with us.
+Hi, Jack. you're invited to have dinner with us.
+Hi, Frank. you're invited to have dinner with us.
+Nvm, I found a bigger table. We can't have Bob back but we can invite more people.
+['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+Hi, n, you're invited to have dinner with us.
+
+[Done] exited with code=0 in 0.086 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+Unfortunately Bob can't make it to the dinner because he's dead.
+['Jacob', 'Jack', 'Frank', 'John', 'Stewart']
+Hi, Jacob. you're invited to have dinner with us.
+Hi, Jack. you're invited to have dinner with us.
+Hi, Frank. you're invited to have dinner with us.
+Nvm, I found a bigger table. We can't have Bob back but we can invite more people.
+['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+Hi, Anne, you're invited to have dinner with us.
+Hi, Jacob, you're invited to have dinner with us.
+
+[Done] exited with code=0 in 0.087 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+Unfortunately Bob can't make it to the dinner because he's dead.
+['Jacob', 'Jack', 'Frank', 'John', 'Stewart']
+Hi, Jacob. you're invited to have dinner with us.
+Hi, Jack. you're invited to have dinner with us.
+Hi, Frank. you're invited to have dinner with us.
+Nvm, I found a bigger table. We can't have Bob back but we can invite more people.
+['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+Hi, Anne, you're invited to have dinner with us.
+Hi, Jacob, you're invited to have dinner with us.
+
+[Done] exited with code=0 in 0.09 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+Unfortunately Bob can't make it to the dinner because he's dead.
+['Jacob', 'Jack', 'Frank', 'John', 'Stewart']
+Hi, Jacob. you're invited to have dinner with us.
+Hi, Jack. you're invited to have dinner with us.
+Hi, Frank. you're invited to have dinner with us.
+Nvm, I found a bigger table. We can't have Bob back but we can invite more people.
+['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+Hi, Anne, you're invited to have dinner with us.
+Hi, Jacob, you're invited to have dinner with us.
+
+[Done] exited with code=0 in 0.09 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+Unfortunately Bob can't make it to the dinner because he's dead.
+['Jacob', 'Jack', 'Frank', 'John', 'Stewart']
+Hi, Jacob. you're invited to have dinner with us.
+Hi, Jack. you're invited to have dinner with us.
+Hi, Frank. you're invited to have dinner with us.
+Nvm, I found a bigger table. We can't have Bob back but we can invite more people.
+['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+Hi, Anne, you're invited to have dinner with us.
+Hi, Jacob, you're invited to have dinner with us.
+And so on...
+Anyway, I can't invite the whole list.
+
+[Done] exited with code=0 in 0.085 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+  File "/home/chap/Projects/Python/Class/Book/crash.py", line 191
+    print(f{guest_list.pop(0)} {message})
+           ^
+SyntaxError: invalid syntax
+
+[Done] exited with code=1 in 0.088 seconds
+

@@ -1,0 +1,1602 @@
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+  File "/home/chap/Projects/Python/Class/Book/crash.py", line 191
+    print(f{guest_list.pop(0)} {message})
+           ^
+SyntaxError: invalid syntax
+
+[Done] exited with code=1 in 0.229 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+  File "/home/chap/Projects/Python/Class/Book/crash.py", line 191
+    print(f{guest_list.pop(0)} {message})
+           ^
+SyntaxError: invalid syntax
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+  File "/home/chap/Projects/Python/Class/Book/crash.py", line 191
+    print(f{guest_list.pop(0)} {message})
+           ^
+SyntaxError: invalid syntax
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+Unfortunately Bob can't make it to the dinner because he's dead.
+['Jacob', 'Jack', 'Frank', 'John', 'Stewart']
+Hi, Jacob. you're invited to have dinner with us.
+Hi, Jack. you're invited to have dinner with us.
+Hi, Frank. you're invited to have dinner with us.
+Nvm, I found a bigger table. We can't have Bob back but we can invite more people.
+['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+Hi, Anne, you're invited to have dinner with us.
+Hi, Jacob, you're invited to have dinner with us.
+And so on...
+Anyway, I can't invite the whole list.
+Jacob + sorry, can't come.
+
+[Done] exited with code=0 in 0.087 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+Unfortunately Bob can't make it to the dinner because he's dead.
+['Jacob', 'Jack', 'Frank', 'John', 'Stewart']
+Hi, Jacob. you're invited to have dinner with us.
+Hi, Jack. you're invited to have dinner with us.
+Hi, Frank. you're invited to have dinner with us.
+Nvm, I found a bigger table. We can't have Bob back but we can invite more people.
+['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+Hi, Anne, you're invited to have dinner with us.
+Hi, Jacob, you're invited to have dinner with us.
+And so on...
+Anyway, I can't invite the whole list.
+Jacob + sorry, can't come.
+
+[Done] exited with code=0 in 0.084 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+Unfortunately Bob can't make it to the dinner because he's dead.
+['Jacob', 'Jack', 'Frank', 'John', 'Stewart']
+Hi, Jacob. you're invited to have dinner with us.
+Hi, Jack. you're invited to have dinner with us.
+Hi, Frank. you're invited to have dinner with us.
+Nvm, I found a bigger table. We can't have Bob back but we can invite more people.
+['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+Hi, Anne, you're invited to have dinner with us.
+Hi, Jacob, you're invited to have dinner with us.
+And so on...
+Anyway, I can't invite the whole list.
+Jacob + sorry, can't come.
+
+[Done] exited with code=0 in 0.087 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+Unfortunately Bob can't make it to the dinner because he's dead.
+['Jacob', 'Jack', 'Frank', 'John', 'Stewart']
+Hi, Jacob. you're invited to have dinner with us.
+Hi, Jack. you're invited to have dinner with us.
+Hi, Frank. you're invited to have dinner with us.
+Nvm, I found a bigger table. We can't have Bob back but we can invite more people.
+['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+Hi, Anne, you're invited to have dinner with us.
+Hi, Jacob, you're invited to have dinner with us.
+And so on...
+Anyway, I can't invite the whole list.
+Jacob sorry, can't come.
+
+[Done] exited with code=0 in 0.087 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+Unfortunately Bob can't make it to the dinner because he's dead.
+['Jacob', 'Jack', 'Frank', 'John', 'Stewart']
+Hi, Jacob. you're invited to have dinner with us.
+Hi, Jack. you're invited to have dinner with us.
+Hi, Frank. you're invited to have dinner with us.
+Nvm, I found a bigger table. We can't have Bob back but we can invite more people.
+['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+Hi, Anne, you're invited to have dinner with us.
+Hi, Jacob, you're invited to have dinner with us.
+And so on...
+Anyway, I can't invite the whole list.
+Jacob sorry, you can't come.
+
+[Done] exited with code=0 in 0.09 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+Unfortunately Bob can't make it to the dinner because he's dead.
+['Jacob', 'Jack', 'Frank', 'John', 'Stewart']
+Hi, Jacob. you're invited to have dinner with us.
+Hi, Jack. you're invited to have dinner with us.
+Hi, Frank. you're invited to have dinner with us.
+Nvm, I found a bigger table. We can't have Bob back but we can invite more people.
+['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+Hi, Anne, you're invited to have dinner with us.
+Hi, Jacob, you're invited to have dinner with us.
+And so on...
+Anyway, I can't invite the whole list.
+Jacob sorry, you can't come.
+Melanie sorry, you can't come.
+John sorry, you can't come.
+Marianne sorry, you can't come.
+Traceback (most recent call last):
+  File "/home/chap/Projects/Python/Class/Book/crash.py", line 195, in <module>
+    print(f"{guest_list.pop(4)} {message}")
+IndexError: pop index out of range
+
+[Done] exited with code=1 in 0.09 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+Unfortunately Bob can't make it to the dinner because he's dead.
+['Jacob', 'Jack', 'Frank', 'John', 'Stewart']
+Hi, Jacob. you're invited to have dinner with us.
+Hi, Jack. you're invited to have dinner with us.
+Hi, Frank. you're invited to have dinner with us.
+Nvm, I found a bigger table. We can't have Bob back but we can invite more people.
+['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+Hi, Anne, you're invited to have dinner with us.
+Hi, Jacob, you're invited to have dinner with us.
+And so on...
+Anyway, I can't invite the whole list.
+Jacob sorry, you can't come.
+Melanie sorry, you can't come.
+John sorry, you can't come.
+Marianne sorry, you can't come.
+
+[Done] exited with code=0 in 0.086 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+Unfortunately Bob can't make it to the dinner because he's dead.
+['Jacob', 'Jack', 'Frank', 'John', 'Stewart']
+Hi, Jacob. you're invited to have dinner with us.
+Hi, Jack. you're invited to have dinner with us.
+Hi, Frank. you're invited to have dinner with us.
+Nvm, I found a bigger table. We can't have Bob back but we can invite more people.
+['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+Hi, Anne, you're invited to have dinner with us.
+Hi, Jacob, you're invited to have dinner with us.
+And so on...
+Anyway, I can't invite the whole list.
+The guest list is composed by: ['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+Jacob sorry, you can't come.
+Melanie sorry, you can't come.
+John sorry, you can't come.
+Marianne sorry, you can't come.
+
+[Done] exited with code=0 in 0.089 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+Unfortunately Bob can't make it to the dinner because he's dead.
+['Jacob', 'Jack', 'Frank', 'John', 'Stewart']
+Hi, Jacob. you're invited to have dinner with us.
+Hi, Jack. you're invited to have dinner with us.
+Hi, Frank. you're invited to have dinner with us.
+Nvm, I found a bigger table. We can't have Bob back but we can invite more people.
+['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+Hi, Anne, you're invited to have dinner with us.
+Hi, Jacob, you're invited to have dinner with us.
+And so on...
+Anyway, I can't invite the whole list.
+The guest list is composed by: ['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+Jacob sorry, you can't come.
+Melanie sorry, you can't come.
+John sorry, you can't come.
+Marianne sorry, you can't come.
+The guest list is now composed by: ['Jack', 'Frank', 'Stewart']
+
+[Done] exited with code=0 in 0.088 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+Unfortunately Bob can't make it to the dinner because he's dead.
+['Jacob', 'Jack', 'Frank', 'John', 'Stewart']
+Hi, Jacob. you're invited to have dinner with us.
+Hi, Jack. you're invited to have dinner with us.
+Hi, Frank. you're invited to have dinner with us.
+Nvm, I found a bigger table. We can't have Bob back but we can invite more people.
+['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+Hi, Anne, you're invited to have dinner with us.
+Hi, Jacob, you're invited to have dinner with us.
+And so on...
+Anyway, I can't invite the whole list.
+The guest list is composed by: ['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+Jacob sorry, you can't come.
+Melanie sorry, you can't come.
+John sorry, you can't come.
+Marianne sorry, you can't come.
+The guest list is now composed by: ['Jack', 'Frank', 'Stewart']
+Frank sorry, you can't come.
+
+[Done] exited with code=0 in 0.089 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+Unfortunately Bob can't make it to the dinner because he's dead.
+['Jacob', 'Jack', 'Frank', 'John', 'Stewart']
+Hi, Jacob. you're invited to have dinner with us.
+Hi, Jack. you're invited to have dinner with us.
+Hi, Frank. you're invited to have dinner with us.
+Nvm, I found a bigger table. We can't have Bob back but we can invite more people.
+['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+Hi, Anne, you're invited to have dinner with us.
+Hi, Jacob, you're invited to have dinner with us.
+And so on...
+Anyway, I can't invite the whole list.
+The guest list is composed by: ['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+Jacob sorry, you can't come.
+Melanie sorry, you can't come.
+John sorry, you can't come.
+Marianne sorry, you can't come.
+The guest list is now composed by: ['Jack', 'Frank', 'Stewart']
+Frank sorry, you can't come.
+Traceback (most recent call last):
+  File "/home/chap/Projects/Python/Class/Book/crash.py", line 201, in <module>
+    del guest_list[-2]
+IndexError: list assignment index out of range
+
+[Done] exited with code=1 in 0.091 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+Unfortunately Bob can't make it to the dinner because he's dead.
+['Jacob', 'Jack', 'Frank', 'John', 'Stewart']
+Hi, Jacob. you're invited to have dinner with us.
+Hi, Jack. you're invited to have dinner with us.
+Hi, Frank. you're invited to have dinner with us.
+Nvm, I found a bigger table. We can't have Bob back but we can invite more people.
+['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+Hi, Anne, you're invited to have dinner with us.
+Hi, Jacob, you're invited to have dinner with us.
+And so on...
+Anyway, I can't invite the whole list.
+The guest list is composed by: ['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+Jacob sorry, you can't come.
+Melanie sorry, you can't come.
+John sorry, you can't come.
+Marianne sorry, you can't come.
+The guest list is now composed by: ['Jack', 'Frank', 'Stewart']
+Frank sorry, you can't come.
+Traceback (most recent call last):
+  File "/home/chap/Projects/Python/Class/Book/crash.py", line 201, in <module>
+    del guest_list[-2]
+IndexError: list assignment index out of range
+
+[Done] exited with code=1 in 0.096 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+Unfortunately Bob can't make it to the dinner because he's dead.
+['Jacob', 'Jack', 'Frank', 'John', 'Stewart']
+Hi, Jacob. you're invited to have dinner with us.
+Hi, Jack. you're invited to have dinner with us.
+Hi, Frank. you're invited to have dinner with us.
+Nvm, I found a bigger table. We can't have Bob back but we can invite more people.
+['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+Hi, Anne, you're invited to have dinner with us.
+Hi, Jacob, you're invited to have dinner with us.
+And so on...
+Anyway, I can't invite the whole list.
+The guest list is composed by: ['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+Jacob sorry, you can't come.
+Melanie sorry, you can't come.
+John sorry, you can't come.
+Marianne sorry, you can't come.
+The guest list is now composed by: ['Jack', 'Frank', 'Stewart']
+Frank sorry, you can't come.
+Traceback (most recent call last):
+  File "/home/chap/Projects/Python/Class/Book/crash.py", line 201, in <module>
+    del guest_list[-2]
+IndexError: list assignment index out of range
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+Unfortunately Bob can't make it to the dinner because he's dead.
+['Jacob', 'Jack', 'Frank', 'John', 'Stewart']
+Hi, Jacob. you're invited to have dinner with us.
+Hi, Jack. you're invited to have dinner with us.
+Hi, Frank. you're invited to have dinner with us.
+Nvm, I found a bigger table. We can't have Bob back but we can invite more people.
+['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+Hi, Anne, you're invited to have dinner with us.
+Hi, Jacob, you're invited to have dinner with us.
+And so on...
+Anyway, I can't invite the whole list.
+The guest list is composed by: ['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+Jacob sorry, you can't come.
+Melanie sorry, you can't come.
+John sorry, you can't come.
+Marianne sorry, you can't come.
+The guest list is now composed by: ['Jack', 'Frank', 'Stewart']
+Frank sorry, you can't come.
+Traceback (most recent call last):
+  File "/home/chap/Projects/Python/Class/Book/crash.py", line 201, in <module>
+    del guest_list[-2]
+IndexError: list assignment index out of range
+
+[Done] exited with code=1 in 0.095 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+Unfortunately Bob can't make it to the dinner because he's dead.
+['Jacob', 'Jack', 'Frank', 'John', 'Stewart']
+Hi, Jacob. you're invited to have dinner with us.
+Hi, Jack. you're invited to have dinner with us.
+Hi, Frank. you're invited to have dinner with us.
+Nvm, I found a bigger table. We can't have Bob back but we can invite more people.
+['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+Hi, Anne, you're invited to have dinner with us.
+Hi, Jacob, you're invited to have dinner with us.
+And so on...
+Anyway, I can't invite the whole list.
+The guest list is composed by: ['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+Jacob sorry, you can't come.
+Melanie sorry, you can't come.
+John sorry, you can't come.
+Marianne sorry, you can't come.
+The guest list is now composed by: ['Jack', 'Frank', 'Stewart']
+Frank sorry, you can't come.
+Traceback (most recent call last):
+  File "/home/chap/Projects/Python/Class/Book/crash.py", line 201, in <module>
+    del guest_list[-2]
+IndexError: list assignment index out of range
+
+[Done] exited with code=1 in 0.087 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+Unfortunately Bob can't make it to the dinner because he's dead.
+['Jacob', 'Jack', 'Frank', 'John', 'Stewart']
+Hi, Jacob. you're invited to have dinner with us.
+Hi, Jack. you're invited to have dinner with us.
+Hi, Frank. you're invited to have dinner with us.
+Nvm, I found a bigger table. We can't have Bob back but we can invite more people.
+['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+Hi, Anne, you're invited to have dinner with us.
+Hi, Jacob, you're invited to have dinner with us.
+And so on...
+Anyway, I can't invite the whole list.
+The guest list is composed by: ['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+Jacob sorry, you can't come.
+Melanie sorry, you can't come.
+John sorry, you can't come.
+Marianne sorry, you can't come.
+The guest list is now composed by: ['Jack', 'Frank', 'Stewart']
+Frank sorry, you can't come.
+Traceback (most recent call last):
+  File "/home/chap/Projects/Python/Class/Book/crash.py", line 201, in <module>
+    del guest_list[-2]
+IndexError: list assignment index out of range
+
+[Done] exited with code=1 in 0.089 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+Unfortunately Bob can't make it to the dinner because he's dead.
+['Jacob', 'Jack', 'Frank', 'John', 'Stewart']
+Hi, Jacob. you're invited to have dinner with us.
+Hi, Jack. you're invited to have dinner with us.
+Hi, Frank. you're invited to have dinner with us.
+Nvm, I found a bigger table. We can't have Bob back but we can invite more people.
+['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+Hi, Anne, you're invited to have dinner with us.
+Hi, Jacob, you're invited to have dinner with us.
+And so on...
+Anyway, I can't invite the whole list.
+The guest list is composed by: ['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+Jacob sorry, you can't come.
+Melanie sorry, you can't come.
+John sorry, you can't come.
+Marianne sorry, you can't come.
+The guest list is now composed by: ['Jack', 'Frank', 'Stewart']
+Frank sorry, you can't come.
+Traceback (most recent call last):
+  File "/home/chap/Projects/Python/Class/Book/crash.py", line 201, in <module>
+    del guest_list[1]
+IndexError: list assignment index out of range
+
+[Done] exited with code=1 in 0.094 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+Unfortunately Bob can't make it to the dinner because he's dead.
+['Jacob', 'Jack', 'Frank', 'John', 'Stewart']
+Hi, Jacob. you're invited to have dinner with us.
+Hi, Jack. you're invited to have dinner with us.
+Hi, Frank. you're invited to have dinner with us.
+Nvm, I found a bigger table. We can't have Bob back but we can invite more people.
+['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+Hi, Anne, you're invited to have dinner with us.
+Hi, Jacob, you're invited to have dinner with us.
+And so on...
+Anyway, I can't invite the whole list.
+The guest list is composed by: ['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+Jacob sorry, you can't come.
+Melanie sorry, you can't come.
+John sorry, you can't come.
+Marianne sorry, you can't come.
+The guest list is now composed by: ['Jack', 'Frank', 'Stewart']
+Frank sorry, you can't come.
+Traceback (most recent call last):
+  File "/home/chap/Projects/Python/Class/Book/crash.py", line 201, in <module>
+    del guest_list[1]
+IndexError: list assignment index out of range
+
+[Done] exited with code=1 in 0.098 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+Unfortunately Bob can't make it to the dinner because he's dead.
+['Jacob', 'Jack', 'Frank', 'John', 'Stewart']
+Hi, Jacob. you're invited to have dinner with us.
+Hi, Jack. you're invited to have dinner with us.
+Hi, Frank. you're invited to have dinner with us.
+Nvm, I found a bigger table. We can't have Bob back but we can invite more people.
+['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+Hi, Anne, you're invited to have dinner with us.
+Hi, Jacob, you're invited to have dinner with us.
+And so on...
+Anyway, I can't invite the whole list.
+The guest list is composed by: ['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+Jacob sorry, you can't come.
+Melanie sorry, you can't come.
+John sorry, you can't come.
+Marianne sorry, you can't come.
+The guest list is now composed by: ['Jack', 'Frank', 'Stewart']
+Frank sorry, you can't come.
+Traceback (most recent call last):
+  File "/home/chap/Projects/Python/Class/Book/crash.py", line 201, in <module>
+    del guest_list[1]
+IndexError: list assignment index out of range
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+Unfortunately Bob can't make it to the dinner because he's dead.
+['Jacob', 'Jack', 'Frank', 'John', 'Stewart']
+Hi, Jacob. you're invited to have dinner with us.
+Hi, Jack. you're invited to have dinner with us.
+Hi, Frank. you're invited to have dinner with us.
+Nvm, I found a bigger table. We can't have Bob back but we can invite more people.
+['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+Hi, Anne, you're invited to have dinner with us.
+Hi, Jacob, you're invited to have dinner with us.
+And so on...
+Anyway, I can't invite the whole list.
+The guest list is composed by: ['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+Jacob sorry, you can't come.
+Melanie sorry, you can't come.
+John sorry, you can't come.
+Marianne sorry, you can't come.
+The guest list is now composed by: ['Jack', 'Frank', 'Stewart']
+Frank sorry, you can't come.
+['Stewart']
+
+[Done] exited with code=0 in 0.087 seconds
+
+[Running] python -u "/home/chap/Projects/Python/Class/Book/crash.py"
+Hello, Edoardo Pigaiani!
+My favourite language is Python!
+In Python we can use single and double quotes.
+This is an example of using single quotes:
+
+One of Python's strenghts is its diverse community.
+And this is an example of using double quotes:
+
+If you use single quotes as delimiter you can put "double quotes" inside.
+
+In Python you can also use numbers:	
+when you divide any two numbers if they are integers that result in a whole number, 	
+you'll always get a float.	
+This is an example of a list:
+['Morning', 'Afternoon', 'Evening', 'Night']
+
+This is how you pick only one element form a list and print it:
+
+Morning
+
+This is how you use string methods in lists:
+
+MORNING
+You can also pick multiple elements from a list:
+
+Morning
+Afternoon
+Python has a special syntax for accessing the last element in a list. By ask-ing for the item at index -1 , Python always returns the last item in the list:
+Night
+A day is divided between four parts, it is currently Morning
+Marco
+Darwin
+Andrea
+Hi, Marco!
+Hi, Darwin!
+Hi, Andrea!
+I would like to own a BMW car.
+I would like to own a Audi car.
+I would like to own a Mercedes car.
+['Honda', 'Ducati', 'BMW', 'Suzuki']
+['Yamaha', 'Ducati', 'BMW', 'Suzuki']
+['Honda', 'Yamaha', 'Suzuki']
+['Suzuki', 'Honda', 'Yamaha', 'Ducati']
+['Honda', 'Ducati', 'Kawasaki']
+['Honda', 'Ducati']
+['Honda', 'Suzuki', 'Kawasaki']
+['Honda', 'Suzuki', 'Ducati', 'Kawasaki']
+Kawasaki
+The last motorcycle I owned was a Suzuki.
+The first motorcycle I owned was a Honda.
+['Honda', 'Suzuki', 'Kawasaki']
+
+A Ducati is too expensive for me.
+Unfortunately Bob can't make it to the dinner because he's dead.
+['Jacob', 'Jack', 'Frank', 'John', 'Stewart']
+Hi, Jacob. you're invited to have dinner with us.
+Hi, Jack. you're invited to have dinner with us.
+Hi, Frank. you're invited to have dinner with us.
+Nvm, I found a bigger table. We can't have Bob back but we can invite more people.
+['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+Hi, Anne, you're invited to have dinner with us.
+Hi, Jacob, you're invited to have dinner with us.
+And so on...
+Anyway, I can't invite the whole list.
+The guest list is composed by: ['Anne', 'Jacob', 'Jack', 'Melanie', 'Frank', 'John', 'Stewart', 'Marianne']
+Jacob sorry, you can't come.
+Melanie sorry, you can't come.
+John sorry, you can't come.
+Marianne sorry, you can't come.
+The guest list is now composed by: ['Jack', 'Frank', 'Stewart']
+Frank sorry, you can't come.
+[]
+
+[Done] exited with code=0 in 0.087 seconds
+
